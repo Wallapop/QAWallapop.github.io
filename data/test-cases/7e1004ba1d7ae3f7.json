@@ -1,0 +1,210 @@
+{
+  "uid" : "7e1004ba1d7ae3f7",
+  "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_03_contactSupport_sendMessage",
+  "historyId" : "6abc1adc76916e79531ef6ac924f512f",
+  "time" : {
+    "start" : 1559663747135,
+    "stop" : 1559663767913,
+    "duration" : 20778
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\r\n\tat java.util.Calendar.setTime(Calendar.java:1770)\r\n\tat java.text.SimpleDateFormat.format(SimpleDateFormat.java:943)\r\n\tat java.text.SimpleDateFormat.format(SimpleDateFormat.java:936)\r\n\tat java.text.DateFormat.format(DateFormat.java:345)\r\n\tat com.wallapop.functionality.general.screens.AndroidScreen.takeScreenshot(AndroidScreen.java:406)\r\n\tat com.wallapop.configuration.TestRunner.handleTestExecutionException(TestRunner.java:96)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestExecutionExceptionHandlers(TestMethodTestDescriptor.java:192)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestExecutionExceptionHandlers(TestMethodTestDescriptor.java:178)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$6(TestMethodTestDescriptor.java:170)\r\n\tat org.junit.jupiter.engine.execution.ThrowableCollector.execute(ThrowableCollector.java:40)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:163)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:110)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:57)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.lambda$execute$3(HierarchicalTestExecutor.java:83)\r\n\tat org.junit.platform.engine.support.hierarchical.SingleTestExecutor.executeSafely(SingleTestExecutor.java:66)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:77)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.lambda$null$2(HierarchicalTestExecutor.java:92)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)\r\n\tat java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)\r\n\tat java.util.Iterator.forEachRemaining(Iterator.java:116)\r\n\tat java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)\r\n\tat java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)\r\n\tat java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)\r\n\tat java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.lambda$execute$3(HierarchicalTestExecutor.java:92)\r\n\tat org.junit.platform.engine.support.hierarchical.SingleTestExecutor.executeSafely(SingleTestExecutor.java:66)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:77)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.lambda$null$2(HierarchicalTestExecutor.java:92)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)\r\n\tat java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)\r\n\tat java.util.Iterator.forEachRemaining(Iterator.java:116)\r\n\tat java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)\r\n\tat java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)\r\n\tat java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)\r\n\tat java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.lambda$execute$3(HierarchicalTestExecutor.java:92)\r\n\tat org.junit.platform.engine.support.hierarchical.SingleTestExecutor.executeSafely(SingleTestExecutor.java:66)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:77)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:51)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:43)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:170)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:154)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:90)\r\n\tat org.junit.platform.runner.JUnitPlatform.run(JUnitPlatform.java:133)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SanityTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "feature",
+    "value" : "Help"
+  }, {
+    "name" : "story",
+    "value" : "Help information and actions"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "17280@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_03_contactSupport_sendMessage"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "TestRail",
+    "url" : "https://wallapop.testrail.io/index.php?/cases/view/754",
+    "type" : "custom"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "59865dadb4d446a3",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559604997108,
+        "stop" : 1559604997440,
+        "duration" : 332
+      }
+    }, {
+      "uid" : "ce615bea5fa0b210",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559577475024,
+        "stop" : 1559577507858,
+        "duration" : 32834
+      }
+    }, {
+      "uid" : "aaf5dfc25b74235",
+      "status" : "broken",
+      "statusDetails" : "[Lorg/junit/jupiter/params/provider/Arguments;",
+      "time" : {
+        "start" : 1559576617050,
+        "stop" : 1559576617327,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "8e165d56e097e1b8",
+      "status" : "broken",
+      "statusDetails" : "[Lorg/junit/jupiter/params/provider/Arguments;",
+      "time" : {
+        "start" : 1559576256663,
+        "stop" : 1559576256980,
+        "duration" : 317
+      }
+    }, {
+      "uid" : "3a567c53b684ec36",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559564798145,
+        "stop" : 1559564798432,
+        "duration" : 287
+      }
+    }, {
+      "uid" : "298474d22c987b86",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559564079611,
+        "stop" : 1559564079894,
+        "duration" : 283
+      }
+    }, {
+      "uid" : "8678ae3e34eabbc9",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559559257786,
+        "stop" : 1559559258061,
+        "duration" : 275
+      }
+    }, {
+      "uid" : "6e7bf6e9fefbd406",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559558925176,
+        "stop" : 1559558925441,
+        "duration" : 265
+      }
+    }, {
+      "uid" : "470f4e75b0a78dc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517301260,
+        "stop" : 1559517333302,
+        "duration" : 32042
+      }
+    }, {
+      "uid" : "9766c6feb8661d1b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559511447634,
+        "stop" : 1559511447893,
+        "duration" : 259
+      }
+    }, {
+      "uid" : "83a0a8fdc877e0e0",
+      "status" : "broken",
+      "statusDetails" : "Failed to load ApplicationContext",
+      "time" : {
+        "start" : 1559510810583,
+        "stop" : 1559510810595,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "52812615108cac48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559499015126,
+        "stop" : 1559499047900,
+        "duration" : 32774
+      }
+    }, {
+      "uid" : "2738340813607946",
+      "status" : "broken",
+      "statusDetails" : "Failed to load ApplicationContext",
+      "time" : {
+        "start" : 1559495716774,
+        "stop" : 1559495716794,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "54840af87051ca4e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1559287816598,
+        "stop" : 1559287849722,
+        "duration" : 33124
+      }
+    }, {
+      "uid" : "f19eada76e1c68ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559253079006,
+        "stop" : 1559253119593,
+        "duration" : 40587
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "SanityTest_Android", "RegressionTest_Android" ]
+  },
+  "source" : "7e1004ba1d7ae3f7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "790b25b68373e51b",
+  "name" : "CriticalPathSuite",
+  "fullName" : "com.wallapop.testPlans.CriticalPathsTest.CriticalPathSuite",
+  "historyId" : "fe3ae881f026010546638ba0fecb6c69",
+  "time" : {
+    "start" : 1559555726098,
+    "stop" : 1559555726116,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "16812@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.testPlans.CriticalPathsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.testPlans.CriticalPathsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "CriticalPathSuite"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.testPlans.CriticalPathsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "790b25b68373e51b.json",
+  "parameterValues" : [ ]
+}

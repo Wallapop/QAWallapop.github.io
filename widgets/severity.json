@@ -1,0 +1,4091 @@
+[ {
+  "uid" : "27505aa18d8fbe12",
+  "name" : "[C10882] Conversation messages: Suspicious URL third voice",
+  "time" : {
+    "start" : 1559604984547,
+    "stop" : 1559604984560,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "47e3a860670e4d17",
+  "name" : "[C12552] Delivery chat: Seller add shipping weight from chat conversation",
+  "time" : {
+    "start" : 1559604972643,
+    "stop" : 1559604972953,
+    "duration" : 310
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a98329aef9bac5cd",
+  "name" : "[C731] Login: Login with a wrong Wallapop email(loginWallapopAccount_03_setWrongEmail_isUserNotLogged",
+  "time" : {
+    "start" : 1559604986079,
+    "stop" : 1559604986376,
+    "duration" : 297
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ab0073479fc116a1",
+  "name" : "Conversation messages: Send a multiline message",
+  "time" : {
+    "start" : 1559604984752,
+    "stop" : 1559604984763,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f98e7df7afa9b88c",
+  "name" : "[C10872] Item upload: Upload a Car item",
+  "time" : {
+    "start" : 1559604979522,
+    "stop" : 1559604979529,
+    "duration" : 7
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9b6da8c5383c1e3f",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Cars|Motor & Accesories)",
+  "time" : {
+    "start" : 1559604996117,
+    "stop" : 1559604996131,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5b0d9ba5fc0ac920",
+  "name" : "Search Real Estate: Reset filter set in search screen",
+  "time" : {
+    "start" : 1559604994194,
+    "stop" : 1559604994475,
+    "duration" : 281
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f99f9bd74f89b885",
+  "name" : "Conversation messages: Send a message with only letters",
+  "time" : {
+    "start" : 1559604984908,
+    "stop" : 1559604984927,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d82bfad5cddba704",
+  "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_TEXT with value Hello(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+  "time" : {
+    "start" : 1559604995113,
+    "stop" : 1559604995136,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c2a0b776dea67705",
+  "name" : "[C648] Item actions: Report this listing in item Page(otherItem_04_reportItemByReasonNumber_isItemReported",
+  "time" : {
+    "start" : 1559604996755,
+    "stop" : 1559604996777,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e28928420fa3ff2",
+  "name" : "User Review: Sell item and do the review without comment to the seller(userReview_03_SellItemAndDoBuyerReview_isReviewDone",
+  "time" : {
+    "start" : 1559604984060,
+    "stop" : 1559604984091,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "26ec8912362e8dce",
+  "name" : "[C679] Delivery tutorials: Go to buyer tutorial from pay item",
+  "time" : {
+    "start" : 1559604976272,
+    "stop" : 1559604976293,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f9a8321712f04627",
+  "name" : "[C12562] Delivery chat: Buyer sends shipping offer for a reserved item",
+  "time" : {
+    "start" : 1559604974141,
+    "stop" : 1559604974167,
+    "duration" : 26
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "249be805578baeea",
+  "name" : "[C8578] Item edition: Edit a Real Estate item",
+  "time" : {
+    "start" : 1559604981325,
+    "stop" : 1559604981331,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "daa6df56652bab2b",
+  "name" : "[C696] Profile edition: Change the user main location",
+  "time" : {
+    "start" : 1559604991654,
+    "stop" : 1559604991681,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "312bb288bc266318",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: TV, Audio & Cameras|Computers & Electronic|Cell Phones & Accessories|Movies, Books & Music)",
+  "time" : {
+    "start" : 1559604996059,
+    "stop" : 1559604996074,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "631d627d6c440322",
+  "name" : "[C846] Search Consumer Goods: Filter by location entered manually(searchConsumerGoods_05_changeLocationSearch_itemLocation",
+  "time" : {
+    "start" : 1559604977701,
+    "stop" : 1559604977968,
+    "duration" : 267
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bde1728b29ac9138",
+  "name" : "PRO Subscription: Check the Google payment popup",
+  "time" : {
+    "start" : 1559604988079,
+    "stop" : 1559604988100,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bd9851bae5626c56",
+  "name" : "[C10884] Conversation data: Item detail access from header",
+  "time" : {
+    "start" : 1559604996812,
+    "stop" : 1559604996823,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "439bd299cef3f9ad",
+  "name" : "[C1677B] Delivery user profile: See the number of shipments on other profiles (exactly one)",
+  "time" : {
+    "start" : 1559604975313,
+    "stop" : 1559604975323,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3677aa1ab2253aaa",
+  "name" : "[C828] Search Consumer Goods: Search with different filters getting results(searchConsumerGoods_01_SearchByAllFilters_AreItemsDisplayed",
+  "time" : {
+    "start" : 1559604978623,
+    "stop" : 1559604978887,
+    "duration" : 264
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7eed71805ed8f3a8",
+  "name" : "[C12563] Delivery chat: Buyer sends shipping offer for item with free shipping promo enabled",
+  "time" : {
+    "start" : 1559604974209,
+    "stop" : 1559604974226,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b3141768d07ef726",
+  "name" : "[C739] Help: Legal agreements",
+  "time" : {
+    "start" : 1559604997822,
+    "stop" : 1559604998216,
+    "duration" : 394
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9bf6dede94ede8b0",
+  "name" : "[C696] Profile edition: Change the user main location(editProfile_05_EditLocation_IsLocationAdded",
+  "time" : {
+    "start" : 1559604991672,
+    "stop" : 1559604991746,
+    "duration" : 74
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6ea50bf87e0962bb",
+  "name" : "[C12552] Delivery chat: Seller add shipping weight from chat conversation",
+  "time" : {
+    "start" : 1559604972654,
+    "stop" : 1559604973097,
+    "duration" : 443
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3da5b2e927d3f3bb",
+  "name" : "Onboarding: Deny the location permission after login an user",
+  "time" : {
+    "start" : 1559604989416,
+    "stop" : 1559604989724,
+    "duration" : 308
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3dbdb9c15e976eb5",
+  "name" : "[C731] Login: Login with a wrong Wallapop email",
+  "time" : {
+    "start" : 1559604986068,
+    "stop" : 1559604986361,
+    "duration" : 293
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e3cc353138501614",
+  "name" : "[C15466] Purchases: Bump list empty list design",
+  "time" : {
+    "start" : 1559604990682,
+    "stop" : 1559604991005,
+    "duration" : 323
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fa66d7eed3d6a0b3",
+  "name" : "User Review: Sell item to user and don't do any review",
+  "time" : {
+    "start" : 1559604983945,
+    "stop" : 1559604983957,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9e16ac57bda69431",
+  "name" : "PRO Subscription: Check the Google payment popup",
+  "time" : {
+    "start" : 1559604988097,
+    "stop" : 1559604988125,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2a60e14c5ff2b5b5",
+  "name" : "[C117B] Verify if top banner promoted exists at cars search and is clickable",
+  "time" : {
+    "start" : 1559604981459,
+    "stop" : 1559604981464,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "59131b9d47ac5685",
+  "name" : "[C10881] Conversation messages: Allowed URLs",
+  "time" : {
+    "start" : 1559604984603,
+    "stop" : 1559604984627,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8186dee5667ba342",
+  "name" : "Search Consumer Goods: Reset filters selected(searchConsumerGoods_02_SetFiltersAndReset_IsFilterResetLessCategory",
+  "time" : {
+    "start" : 1559604976780,
+    "stop" : 1559604977104,
+    "duration" : 324
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f9a7bd85825d474b",
+  "name" : "[C12541] Delivery accounts: Register bank account with invalid IBAN",
+  "time" : {
+    "start" : 1559604981213,
+    "stop" : 1559604981218,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "154d26baf5fe6e16",
+  "name" : "[C740] Help: Access and sections",
+  "time" : {
+    "start" : 1559514103453,
+    "stop" : 1559514107413,
+    "duration" : 3960
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9751ecb6df1b981e",
+  "name" : "[C12540] Delivery accounts: Register bank account with a valid name and IBAN(shipping_registerBankAccount_registerSuccess",
+  "time" : {
+    "start" : 1559604981244,
+    "stop" : 1559604981257,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "89ef11e939395e66",
+  "name" : "[C17030] Login: See Privacy Policy from Wallapop login screen",
+  "time" : {
+    "start" : 1559604986387,
+    "stop" : 1559604986666,
+    "duration" : 279
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2846f9301e7bc571",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message RECEIVED(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995736,
+    "stop" : 1559604995755,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bcc1180307951554",
+  "name" : "[C17025] Login: Login with a wrong Wallapop password(loginWallapopAccount_04_setWrongPassword_isUserNotLogged",
+  "time" : {
+    "start" : 1559604986708,
+    "stop" : 1559604986993,
+    "duration" : 285
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b46944755d1d9da",
+  "name" : "[C37161B] Save Searches: Do a search with results and check Save search button at wall",
+  "time" : {
+    "start" : 1559604982433,
+    "stop" : 1559604982692,
+    "duration" : 259
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fa5e7e02f66daff5",
+  "name" : "[C689] Profile items: Delete a selling product",
+  "time" : {
+    "start" : 1559604985959,
+    "stop" : 1559604985973,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "793eaa47836c16cb",
+  "name" : "[C12571] Delivery tutorials: Go to buyer tutorial from wallapop protect link at pay item",
+  "time" : {
+    "start" : 1559604976227,
+    "stop" : 1559604976235,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f28469206fde38f3",
+  "name" : "[C37162B] Save Searches: Save Cars searches and check my saved searches(SaveSearch_02_SaveCarsSearches_IsMySavedSearchDisplayed",
+  "time" : {
+    "start" : 1559604985097,
+    "stop" : 1559604985116,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3a72d2fab5dcff1d",
+  "name" : "[C101] Conversation messages: Autoresend pending messages after open the app again",
+  "time" : {
+    "start" : 1559604984438,
+    "stop" : 1559604984455,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5303d7c5d30be111",
+  "name" : "[C12559] Delivery pay: Buyer sends shipping offer with an invalid phone number",
+  "time" : {
+    "start" : 1559604974077,
+    "stop" : 1559604974097,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2c9c2972ff108801",
+  "name" : "Upload: List 20 Consumer Goods Items(upload_04_UploadSeveralConsumerGoodsItems_AllItemsUploaded",
+  "time" : {
+    "start" : 1559604979585,
+    "stop" : 1559604979598,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8934427a6b798ba3",
+  "name" : "User Review: Buy item and do the review to the buyer",
+  "time" : {
+    "start" : 1559604984190,
+    "stop" : 1559604984204,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "570be57fb64b06c3",
+  "name" : "[C4261] Item upload: Upload a Real Estate item",
+  "time" : {
+    "start" : 1559604979553,
+    "stop" : 1559604979557,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "95d26a6c6eb653a7",
+  "name" : "[C37162C] Save Searches: Save RE searches and check my saved searches",
+  "time" : {
+    "start" : 1559604985042,
+    "stop" : 1559604985052,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cfe13245d7654bd6",
+  "name" : "[C15467] Purchases: Bump list upload from empty list",
+  "time" : {
+    "start" : 1559604991066,
+    "stop" : 1559604991374,
+    "duration" : 308
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "281bf14198fa1cf9",
+  "name" : "[C689] Profile items: Delete a selling product",
+  "time" : {
+    "start" : 1559604985971,
+    "stop" : 1559604985992,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "26bf871dcd8de50a",
+  "name" : "[C37160B] Save Searches: Do a search with no results and check Save search button at wall",
+  "time" : {
+    "start" : 1559604981667,
+    "stop" : 1559604981673,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "91136b741bbf6f22",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user BLOCKED(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995501,
+    "stop" : 1559604995522,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eb639b4452e3db25",
+  "name" : "Conversation messages: Send a message with unnecessary spaces",
+  "time" : {
+    "start" : 1559604984473,
+    "stop" : 1559604984492,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e0e25dc3f213166e",
+  "name" : "[C609] Search Consumer Goods: Do a search with no result",
+  "time" : {
+    "start" : 1559604978340,
+    "stop" : 1559604978597,
+    "duration" : 257
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f29fd1255b0a7e0",
+  "name" : "Inbox actions - Active conversations: Select a conversation by ITEM_TITLE with value iPhone",
+  "time" : {
+    "start" : 1559604994965,
+    "stop" : 1559604994979,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c85a1b29ad3b1b89",
+  "name" : "[C12557] Delivery pay: Buyer sends shipping offer with invalid postal code number(payItem_postalCodeIsInvalid_paymentFailed",
+  "time" : {
+    "start" : 1559604974384,
+    "stop" : 1559604974449,
+    "duration" : 65
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "42c6fb1b830cc45e",
+  "name" : "[C17026] Register: Sign up with a Wallapop account with wrong or duplicated eMail(registerWallapopAccount_03_setWrongEmail_isUserNotRegistered",
+  "time" : {
+    "start" : 1559604995941,
+    "stop" : 1559604995970,
+    "duration" : 29
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b63a041e8284fe36",
+  "name" : "[C12548] Delivery accounts: Edit credit card with valid info",
+  "time" : {
+    "start" : 1559604981061,
+    "stop" : 1559604981066,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d4dab73bb53e259",
+  "name" : "Conversation messages: Send a random sentence",
+  "time" : {
+    "start" : 1559604984515,
+    "stop" : 1559604984534,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0f5ad42eeac3265",
+  "name" : "[C562] Delivery tutorials: Go to shipping main Tutorial",
+  "time" : {
+    "start" : 1559604976179,
+    "stop" : 1559604976187,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3017683fd94bf8f7",
+  "name" : "[C12572] Delivery tutorials: Go to commission info tutorial from pay item",
+  "time" : {
+    "start" : 1559604976383,
+    "stop" : 1559604976407,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ac1c29e8fafd8ab0",
+  "name" : "[C740] Help: Access and sections",
+  "time" : {
+    "start" : 1559604997478,
+    "stop" : 1559604997794,
+    "duration" : 316
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "791742af61c0639",
+  "name" : "[C4261] Item upload: Upload a Real Estate item(upload_03_RealEstateItem_IsItemUploaded",
+  "time" : {
+    "start" : 1559604979555,
+    "stop" : 1559604979568,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8674028e7c6188ae",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item AVAILABLE(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604994703,
+    "stop" : 1559604994727,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ceb6b5bb9a084e1",
+  "name" : "[C8642] Search Cars: Search with different filters getting results(searchCars_01_SearchByAllFilters_AreItemsDisplayed",
+  "time" : {
+    "start" : 1559604979867,
+    "stop" : 1559604980130,
+    "duration" : 263
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "297934aceb85ccf2",
+  "name" : "[C692] Profile edition: Change user avatar",
+  "time" : {
+    "start" : 1559604991811,
+    "stop" : 1559604991828,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7006b03be5387178",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Real Estate|Home & Garden|Appliances)",
+  "time" : {
+    "start" : 1559604996161,
+    "stop" : 1559604996171,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "39a624c60f5dafa3",
+  "name" : "[C1676A] Delivery user profile: See a shipping review for bought item in my profile",
+  "time" : {
+    "start" : 1559604975689,
+    "stop" : 1559604975746,
+    "duration" : 57
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9cb939e9c5041b35",
+  "name" : "[C37161A] Save Searches: Save a search with no user logged",
+  "time" : {
+    "start" : 1559604983032,
+    "stop" : 1559604983311,
+    "duration" : 279
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "277661c55338db31",
+  "name" : "[C79] Inbox data - Active conversations: Conversations sorting",
+  "time" : {
+    "start" : 1559604979768,
+    "stop" : 1559604979772,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3905e3fc290a3522",
+  "name" : "[C72] Conversation actions: Report an item",
+  "time" : {
+    "start" : 1559604997044,
+    "stop" : 1559604997055,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4c1b2394266f09b6",
+  "name" : "[C449] Conversation messages: Messages information",
+  "time" : {
+    "start" : 1559604983791,
+    "stop" : 1559604983799,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b290ccd1c76048f8",
+  "name" : "[C12545] Delivery accounts: Register a card with valid info",
+  "time" : {
+    "start" : 1559604981144,
+    "stop" : 1559604981150,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7e1e9bc8c2cac0b1",
+  "name" : "[C645] Item edition: Edit a Consumer Goods item",
+  "time" : {
+    "start" : 1559604981393,
+    "stop" : 1559604981397,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fd32d0eaff4b905f",
+  "name" : "[C1677A] Delivery user profile: See the number of shipments on other profiles (more than one)",
+  "time" : {
+    "start" : 1559604975143,
+    "stop" : 1559604975168,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "260cd7aba9ee89d5",
+  "name" : "[C12549] Delivery accounts: Delete existing credit card",
+  "time" : {
+    "start" : 1559604981033,
+    "stop" : 1559604981037,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c29a3d593f0dfbe4",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item AVAILABLE",
+  "time" : {
+    "start" : 1559604994694,
+    "stop" : 1559604994706,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "44d4bc64d1688e82",
+  "name" : "[C17029] Login: See Terms and Conditions from Wallapop login screen",
+  "time" : {
+    "start" : 1559604987672,
+    "stop" : 1559604987976,
+    "duration" : 304
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b99a4a7b683a98b0",
+  "name" : "[C37160C] Save Searches: Edit a saved search",
+  "time" : {
+    "start" : 1559604981702,
+    "stop" : 1559604981707,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dbe469b0c211a7e2",
+  "name" : "Inbox actions - Active conversations: Select some conversations(ActivesInbox_Actions_07_SelectSomeConversations_IsConversationSelected",
+  "time" : {
+    "start" : 1559604995172,
+    "stop" : 1559604995199,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e59341359fff7fdd",
+  "name" : "[C85] Conversation data: Rating third voice actions behaviour",
+  "time" : {
+    "start" : 1559604984123,
+    "stop" : 1559604984143,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "620f178b074966fb",
+  "name" : "Conversation messages: Send a message with 300 characters",
+  "time" : {
+    "start" : 1559604984332,
+    "stop" : 1559604984349,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14cc45f54232ba7f",
+  "name" : "[C646] Item actions: Favorite an item at the item detail",
+  "time" : {
+    "start" : 1559604996604,
+    "stop" : 1559604996623,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fdd28b60adcab845",
+  "name" : "[C17031] Login: Ask for a new Wallapop user password(loginForgotPassword_01_requestNewPassword_isEmailReceived",
+  "time" : {
+    "start" : 1559604989846,
+    "stop" : 1559604990172,
+    "duration" : 326
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3547bd58b67a1f14",
+  "name" : "Conversation data: User data at header",
+  "time" : {
+    "start" : 1559604983764,
+    "stop" : 1559604983780,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e35d1c0f6590377f",
+  "name" : "Search Cars: Search by keyword of a Car with Cars category preselected",
+  "time" : {
+    "start" : 1559604980144,
+    "stop" : 1559604980401,
+    "duration" : 257
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "256b1b6c9c0e9da9",
+  "name" : "[C17027] Register: See Terms and Conditions from Wallapop register screen",
+  "time" : {
+    "start" : 1559604996354,
+    "stop" : 1559604996378,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7c32b7121e9a7fb7",
+  "name" : "[C12571] Delivery tutorials: Go to buyer tutorial from wallapop protect link at pay item",
+  "time" : {
+    "start" : 1559604976230,
+    "stop" : 1559604976252,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8b2d66cf4d724314",
+  "name" : "[C37160B] Save Searches: Do a search with no results and check Save search button at wall(SaveSearch_02_DoSearchWithoutResults_IsSaveSearchButtonDisplayed",
+  "time" : {
+    "start" : 1559604981670,
+    "stop" : 1559604981686,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "351473a12e4179d1",
+  "name" : "Search an Ad at item detail and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"",
+  "time" : {
+    "start" : 1559604981542,
+    "stop" : 1559604981547,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf1098454b370884",
+  "name" : "[C82] Inbox data - Active conversations: Pagination",
+  "time" : {
+    "start" : 1559604979699,
+    "stop" : 1559604979704,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eb9b5bba39059328",
+  "name" : "[C12564] Delivery pay: Buyer sends shipping offer in currency different than EUR(payItem_currencyNotEuro_PaymentFailed",
+  "time" : {
+    "start" : 1559604973500,
+    "stop" : 1559604973529,
+    "duration" : 29
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e85f49c6d84d969c",
+  "name" : "[C12598] Profile edition: Change gender(editProfile_06_EditGender_IsGenderAdded",
+  "time" : {
+    "start" : 1559604992280,
+    "stop" : 1559604992298,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bb65b4ee3808b8c4",
+  "name" : "[C17028] Register: See Privacy Policy from Wallapop register screen",
+  "time" : {
+    "start" : 1559604996000,
+    "stop" : 1559604996027,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2acd63f26c565a9c",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item UNAVAILABLE",
+  "time" : {
+    "start" : 1559604994655,
+    "stop" : 1559604994665,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf4cfe828cff870d",
+  "name" : "[C117B] Verify if top banner promoted exists at cars search and is clickable",
+  "time" : {
+    "start" : 1559604981461,
+    "stop" : 1559604981474,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fc3511c773649ae2",
+  "name" : "[C1675A] Delivery user profile: See the number of shipments on my profile (more than one)",
+  "time" : {
+    "start" : 1559604975194,
+    "stop" : 1559604975230,
+    "duration" : 36
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3a9c1b21b10bc7be",
+  "name" : "[C93] Conversation data: Item data at header",
+  "time" : {
+    "start" : 1559604983864,
+    "stop" : 1559604983873,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3913c9e6318a1347",
+  "name" : "[C90B] Conversation data: Connection status toast",
+  "time" : {
+    "start" : 1559604983689,
+    "stop" : 1559604983698,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3ccc544f98fa2eb5",
+  "name" : "[C1677B] Delivery user profile: See the number of shipments on other profiles (exactly one)",
+  "time" : {
+    "start" : 1559604975316,
+    "stop" : 1559604975346,
+    "duration" : 30
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c85c06ce7f6dae78",
+  "name" : "[C735] Register: Sign up with a Wallapop account with wrong password(registerWallapopAccount_04_setWrongPassword_isUserNotRegistered",
+  "time" : {
+    "start" : 1559604995841,
+    "stop" : 1559604995861,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f174a51b5e326c8",
+  "name" : "[C12572] Delivery tutorials: Go to commission info tutorial from pay item",
+  "time" : {
+    "start" : 1559604976378,
+    "stop" : 1559604976388,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "81074bc4453a46f9",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Real Estate)",
+  "time" : {
+    "start" : 1559604996310,
+    "stop" : 1559604996319,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe028b86c699b067",
+  "name" : "[C117A] Verify if top banner promoted exists at wall and is clickable",
+  "time" : {
+    "start" : 1559604981435,
+    "stop" : 1559604981447,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1fd8cde7aa05ccf6",
+  "name" : "[C362] Profile: Reactivate an Expired item",
+  "time" : {
+    "start" : 1559604988270,
+    "stop" : 1559604988287,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "58e0326c1cabe6c",
+  "name" : "Search Cars: Reset filters selected(searchCars_02_SetFiltersAndReset_IsFilterResetLessCategory",
+  "time" : {
+    "start" : 1559604980710,
+    "stop" : 1559604980974,
+    "duration" : 264
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "84db25dce352aa7d",
+  "name" : "[C37160E] Save Searches: Launch a search from the list and check the filters in filters screen(SaveSearch_05_SaveTheSameSearchInDifferentLocation_IsSearchSaved",
+  "time" : {
+    "start" : 1559604981811,
+    "stop" : 1559604981828,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f220de82f64b4bb1",
+  "name" : "[C12549] Delivery accounts: Delete existing credit card(delivery_deleteCard_deleteSuccess",
+  "time" : {
+    "start" : 1559604981035,
+    "stop" : 1559604981047,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d6f6fe34e39b0bd9",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995687,
+    "stop" : 1559604995712,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16e8d39253b8997a",
+  "name" : "Conversation messages: Send a message with 300 characters",
+  "time" : {
+    "start" : 1559604984318,
+    "stop" : 1559604984334,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a557633e5ee6c67",
+  "name" : "[C12559] Delivery pay: Buyer sends shipping offer with an invalid phone number(payItem_phoneIsInValid_paymentFailed",
+  "time" : {
+    "start" : 1559604974081,
+    "stop" : 1559604974116,
+    "duration" : 35
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9207a4d8cc4e1aae",
+  "name" : "Conversation messages: Send a message with only special characters",
+  "time" : {
+    "start" : 1559604984639,
+    "stop" : 1559604984649,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "12b3c3a554f79697",
+  "name" : "[C71B] Inbox actions - Active conversations: Delete selected conversations",
+  "time" : {
+    "start" : 1559604994767,
+    "stop" : 1559604994783,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fcd20054cb2a4198",
+  "name" : "Conversation data: User data at header",
+  "time" : {
+    "start" : 1559604983758,
+    "stop" : 1559604983766,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "108f50e1eba4757b",
+  "name" : "Inbox actions - Active conversations: Select a conversation by OTHERUSER_NAME with value seller",
+  "time" : {
+    "start" : 1559604994843,
+    "stop" : 1559604994884,
+    "duration" : 41
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fda102a1377c0d5",
+  "name" : "[C729] Login: Login with a right Google account(loginGmailAccount_02_selectExistingUser_isUserLogged",
+  "time" : {
+    "start" : 1559604981857,
+    "stop" : 1559604982124,
+    "duration" : 267
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d764aa4696d202e",
+  "name" : "Search and access to an Ad at the wall",
+  "time" : {
+    "start" : 1559604981572,
+    "stop" : 1559604981585,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "57615848bc29915e",
+  "name" : "Conversation data: Verify 3rd voices data",
+  "time" : {
+    "start" : 1559604983905,
+    "stop" : 1559604983921,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "28ec72203959dca0",
+  "name" : "[C17025] Login: Login with a wrong Wallapop password",
+  "time" : {
+    "start" : 1559604986700,
+    "stop" : 1559604986977,
+    "duration" : 277
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b65972d2866a5d6",
+  "name" : "[C6441] Purchases: Bump list purchase screen redirection",
+  "time" : {
+    "start" : 1559604990208,
+    "stop" : 1559604990532,
+    "duration" : 324
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "30165fdb649803fb",
+  "name" : "[C730] Login: Login with a wrong Facebook account",
+  "time" : {
+    "start" : 1559604985151,
+    "stop" : 1559604985435,
+    "duration" : 284
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4998fe7ed6c47543",
+  "name" : "[C35144] Profile items: Let user delete an inactive item",
+  "time" : {
+    "start" : 1559604985838,
+    "stop" : 1559604985855,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1a87da3018b7ad92",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Real Estate)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+  "time" : {
+    "start" : 1559604996317,
+    "stop" : 1559604996335,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "612054b74bf83a2e",
+  "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches(SaveSearch_01_SaveCGSearches_IsMySavedSearchDisplayed",
+  "time" : {
+    "start" : 1559604985005,
+    "stop" : 1559604985023,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3225f60ee7d0d027",
+  "name" : "Search an Ad at item detail and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"(ads_information_atItem_isAdShownOK",
+  "time" : {
+    "start" : 1559604981544,
+    "stop" : 1559604981557,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c14c4fd07ace82d7",
+  "name" : "[C12547] Delivery accounts: Register credit card with american express number",
+  "time" : {
+    "start" : 1559604981004,
+    "stop" : 1559604981008,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2c3c3ab96b2b3114",
+  "name" : "[C727] Login: Login with a right Wallapop credentials",
+  "time" : {
+    "start" : 1559604987317,
+    "stop" : 1559604987603,
+    "duration" : 286
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83f88009eb17a1d8",
+  "name" : "[C679] Delivery tutorials: Go to buyer tutorial from pay item",
+  "time" : {
+    "start" : 1559604976288,
+    "stop" : 1559604976310,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a9a8e18d53c748ac",
+  "name" : "[C90A] Inbox data - Active conversations: Connection status toast",
+  "time" : {
+    "start" : 1559604979828,
+    "stop" : 1559604979839,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ce11b9c050cbeab5",
+  "name" : "[C648] Item actions: Report this listing in item Page",
+  "time" : {
+    "start" : 1559604996746,
+    "stop" : 1559604996758,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "71eea404f3881125",
+  "name" : "[C735] Register: Sign up with a Wallapop account with wrong password",
+  "time" : {
+    "start" : 1559604995831,
+    "stop" : 1559604995844,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65af0e09304f4567",
+  "name" : "[C17700] Onboarding: Allow the location permissions after login an user",
+  "time" : {
+    "start" : 1559604988394,
+    "stop" : 1559604988704,
+    "duration" : 310
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "766019eefacb3181",
+  "name" : "[C12557] Delivery pay: Buyer sends shipping offer with invalid postal code number",
+  "time" : {
+    "start" : 1559604974381,
+    "stop" : 1559604974397,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "39e94309f143a73d",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item SOLD",
+  "time" : {
+    "start" : 1559604994606,
+    "stop" : 1559604994619,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb9483b34c7fe6d1",
+  "name" : "[C828] Search Consumer Goods: Search with different filters getting results",
+  "time" : {
+    "start" : 1559604978622,
+    "stop" : 1559604978876,
+    "duration" : 254
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e642b14396b6d7ce",
+  "name" : "Conversation messages: Send an email address",
+  "time" : {
+    "start" : 1559604984790,
+    "stop" : 1559604984799,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "74a353c3563959c9",
+  "name" : "Onboarding: See the location permission after skip login",
+  "time" : {
+    "start" : 1559604988719,
+    "stop" : 1559604989017,
+    "duration" : 298
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2dc9504768e8b026",
+  "name" : "[C37161C] Save Searches: Reach saved searches limit",
+  "time" : {
+    "start" : 1559604982154,
+    "stop" : 1559604982409,
+    "duration" : 255
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4c75d148e33f7f98",
+  "name" : "[C724] Profile verification: Phone verification",
+  "time" : {
+    "start" : 1559604985792,
+    "stop" : 1559604985809,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "15f28b14b5bf9934",
+  "name" : "Search Consumer Goods: Delete filters applied after search",
+  "time" : {
+    "start" : 1559604978903,
+    "stop" : 1559604979160,
+    "duration" : 257
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "baafaaf5b7f61380",
+  "name" : "[C37161B] Save Searches: Do a search with results and check Save search button at wall(SaveSearch_02_DoSearchWithResultsAndScroll_IsSaveSearchButtonDisplayedWhenScrollUp",
+  "time" : {
+    "start" : 1559604982435,
+    "stop" : 1559604982707,
+    "duration" : 272
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2d48350108e363bc",
+  "name" : "[C10872] Item upload: Upload a Car item(upload_02_CarItem_IsItemUploaded",
+  "time" : {
+    "start" : 1559604979525,
+    "stop" : 1559604979539,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "106a7b88976d9b04",
+  "name" : "Inbox actions - Active conversations: Go to conversation 3(ActivesInbox_Actions_01_GoToConversationNumber_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995445,
+    "stop" : 1559604995472,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5bc0694095ba9661",
+  "name" : "Search and access to an Ad at the item detail",
+  "time" : {
+    "start" : 1559604981486,
+    "stop" : 1559604981498,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ee9c7eea6cabcf0",
+  "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_DATE with value 03 abr.",
+  "time" : {
+    "start" : 1559604995037,
+    "stop" : 1559604995053,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "853c7bdd8b630b60",
+  "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+  "time" : {
+    "start" : 1559604973670,
+    "stop" : 1559604973691,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69627d54fd102342",
+  "name" : "[C37162B] Save Searches: Save Cars searches and check my saved searches",
+  "time" : {
+    "start" : 1559604985089,
+    "stop" : 1559604985099,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4a3c8c66c5726e63",
+  "name" : "Conversation messages: Send a message and see the notification received",
+  "time" : {
+    "start" : 1559604984368,
+    "stop" : 1559604984386,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e50b9aeb27e06db",
+  "name" : "Search Consumer Goods: Search by keyword with a category preselected",
+  "time" : {
+    "start" : 1559604978050,
+    "stop" : 1559604978309,
+    "duration" : 259
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "77c347dfac5123ce",
+  "name" : "[C713] Profile: Share my user profile by Gmail",
+  "time" : {
+    "start" : 1559604993522,
+    "stop" : 1559604993813,
+    "duration" : 291
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3850bb42dc65b6a",
+  "name" : "[C739] Help: Legal agreements",
+  "time" : {
+    "start" : 1559604997845,
+    "stop" : 1559604998240,
+    "duration" : 395
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "da033376f66c5ca8",
+  "name" : "[C447] Item actions: Open a conversation depending if user is logged or not",
+  "time" : {
+    "start" : 1559604996461,
+    "stop" : 1559604996491,
+    "duration" : 30
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5569b944823cf5b1",
+  "name" : "[C82] Inbox data - Active conversations: Pagination",
+  "time" : {
+    "start" : 1559604979702,
+    "stop" : 1559604979716,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d7f40244830d1cd",
+  "name" : "Conversation data: Conversation's footer",
+  "time" : {
+    "start" : 1559604983724,
+    "stop" : 1559604983733,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "96ad32bd192fd5ff",
+  "name" : "[C10879] Item edition: Edit a Car item",
+  "time" : {
+    "start" : 1559604981364,
+    "stop" : 1559604981368,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7150337798d1a94c",
+  "name" : "[C49] Conversation actions: Blocking an user behaviour",
+  "time" : {
+    "start" : 1559604996911,
+    "stop" : 1559604996920,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7325e91ffd4021e2",
+  "name" : "[C695] Profile edition: Change first and last name",
+  "time" : {
+    "start" : 1559604993444,
+    "stop" : 1559604993460,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "318a1e265c0aa601",
+  "name" : "[C792] Item upload: Upload a Consumer Goods item(upload_01_ConsumerGoodsItem_IsItemUploaded",
+  "time" : {
+    "start" : 1559604979614,
+    "stop" : 1559604979628,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dcbcad97c423cf78",
+  "name" : "Search Consumer Goods: Search by keyword with a category preselected(searchConsumerGoods_04_SetCategoryAndFilterByKeyword_IsSameCategorySelected",
+  "time" : {
+    "start" : 1559604978053,
+    "stop" : 1559604978321,
+    "duration" : 268
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6204322ef8ef2471",
+  "name" : "[C37160D] Save Searches: Delete a search(DeleteSearch_04_DeleteSearch_IsSearchDeleted",
+  "time" : {
+    "start" : 1559604981738,
+    "stop" : 1559604981751,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "71417f4f985ee905",
+  "name" : "[C70] Conversation actions: Report an user",
+  "time" : {
+    "start" : 1559604996967,
+    "stop" : 1559604996991,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "825d8c525fdc50f7",
+  "name" : "[C1677A] Delivery user profile: See the number of shipments on other profiles (more than one)",
+  "time" : {
+    "start" : 1559604975140,
+    "stop" : 1559604975151,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "968e1324219594d4",
+  "name" : "Conversation messages: Send a message with only numbers",
+  "time" : {
+    "start" : 1559604984717,
+    "stop" : 1559604984726,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aa51e5e713bc7e60",
+  "name" : "[C690] Profile items: Delete a sold product",
+  "time" : {
+    "start" : 1559604985869,
+    "stop" : 1559604985878,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "76f45d4426cd7c35",
+  "name" : "[C734] Register: Sign up with a new Wallapop account",
+  "time" : {
+    "start" : 1559604995883,
+    "stop" : 1559604995892,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e52e1c8c1b2c5565",
+  "name" : "[C10881] Conversation messages: Allowed URLs",
+  "time" : {
+    "start" : 1559604984594,
+    "stop" : 1559604984606,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f42468167e4e6ee7",
+  "name" : "User Review: Sell item and do the review to the seller(userReview_02_SellItemAndDoFullReview_isReviewDone",
+  "time" : {
+    "start" : 1559604984261,
+    "stop" : 1559604984286,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "290352a2c431ca4e",
+  "name" : "[C729] Login: Login with a right Google account",
+  "time" : {
+    "start" : 1559604981854,
+    "stop" : 1559604982114,
+    "duration" : 260
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ff48e654590dea6b",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 100 unread messages",
+  "time" : {
+    "start" : 1559604995369,
+    "stop" : 1559604995390,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b104f3dbbcbc6f9a",
+  "name" : "[C711] Profile items: Favorite and Unfavorite Item",
+  "time" : {
+    "start" : 1559604996412,
+    "stop" : 1559604996433,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f24f3497d07a69ed",
+  "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches",
+  "time" : {
+    "start" : 1559604984998,
+    "stop" : 1559604985007,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fffabf06d0d6ca89",
+  "name" : "[C441] Inbox data - Active conversations: Check conversations information",
+  "time" : {
+    "start" : 1559604979738,
+    "stop" : 1559604979743,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7128a17b2f066df0",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item SOLD(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604994617,
+    "stop" : 1559604994638,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d9e4d90345089021",
+  "name" : "[C12560] Delivery pay: Buyer sends shipping offer with invalid phone number (not a mobile number)",
+  "time" : {
+    "start" : 1559604973958,
+    "stop" : 1559604973995,
+    "duration" : 37
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5835f4f236609e7f",
+  "name" : "[C12546] Delivery accounts: Register a card with invalid info(delivery_addCreditCardWithInvalidInfo_registerFailed",
+  "time" : {
+    "start" : 1559604981118,
+    "stop" : 1559604981130,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "708c351b209caf5d",
+  "name" : "[C37160C] Save Searches: Edit a saved search(SaveSearch_03_EditSavedSearch_IsSearchModified",
+  "time" : {
+    "start" : 1559604981704,
+    "stop" : 1559604981721,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d1109b0a593358b3",
+  "name" : "[C12574] Delivery accounts: Seller cash out money to bank account(delivery_cashOutToBankAccount_Success",
+  "time" : {
+    "start" : 1559604974535,
+    "stop" : 1559604974595,
+    "duration" : 60
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "216ddbbcd6d16782",
+  "name" : "User Review: Buy item and do the review to the buyer(userReview_04_BuyerDoesSellerReview_isReviewDone",
+  "time" : {
+    "start" : 1559604984198,
+    "stop" : 1559604984223,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f78cbfb6ea2cccd5",
+  "name" : "Search Consumer Goods: Delete filters applied after search(searchConsumerGoods_07_SearchByKeywordWithNoResultsAndResetFilter_AreItemsDisplayed",
+  "time" : {
+    "start" : 1559604978905,
+    "stop" : 1559604979170,
+    "duration" : 265
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "265f143e4796377f",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item UNAVAILABLE(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604994663,
+    "stop" : 1559604994682,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e28ef1435551e7a1",
+  "name" : "[C12546] Delivery accounts: Register a card with invalid info",
+  "time" : {
+    "start" : 1559604981091,
+    "stop" : 1559604981095,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cab48d0c931272b4",
+  "name" : "User Review: Sell item to user and don't do any review",
+  "time" : {
+    "start" : 1559604983951,
+    "stop" : 1559604983975,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "885a29d4f9b6f956",
+  "name" : "Search and access to an Ad at the item detail",
+  "time" : {
+    "start" : 1559604981484,
+    "stop" : 1559604981488,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f03c0c130d6cff4",
+  "name" : "[C693] Profile edition: Change eMail",
+  "time" : {
+    "start" : 1559604991955,
+    "stop" : 1559604991970,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ddfbb6c445308ed1",
+  "name" : "[C71B] Inbox actions - Active conversations: Delete selected conversations(ActivesInbox_Actions_09_ArchiveSelectedConversations_IsConversationArchived",
+  "time" : {
+    "start" : 1559604994780,
+    "stop" : 1559604994807,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "23152efa5e9be10f",
+  "name" : "[C37160E] Save Searches: Launch a search from the list and check the filters in filters screen",
+  "time" : {
+    "start" : 1559604981808,
+    "stop" : 1559604981814,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b52a8a3ed25b3797",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message READ(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995777,
+    "stop" : 1559604995795,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3440241bb989731e",
+  "name" : "Inbox actions - Active conversations: Select a conversation by ITEM_TITLE with value iPhone(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+  "time" : {
+    "start" : 1559604994976,
+    "stop" : 1559604995013,
+    "duration" : 37
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f950716d269a48f4",
+  "name" : "main()",
+  "time" : {
+    "start" : 1559577790959,
+    "stop" : 1559577790983,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cf7003c5d2165ef",
+  "name" : "[C15466] Purchases: Bump list empty list design",
+  "time" : {
+    "start" : 1559604990653,
+    "stop" : 1559604990971,
+    "duration" : 318
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "11302e94c4280a2",
+  "name" : "[C12546] Delivery accounts: Register a card with invalid info",
+  "time" : {
+    "start" : 1559604981117,
+    "stop" : 1559604981121,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5d5da017a5875e4d",
+  "name" : "[C740] Help: Access and sections",
+  "time" : {
+    "start" : 1559604997470,
+    "stop" : 1559604997766,
+    "duration" : 296
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8a57b454fc232e41",
+  "name" : "Inbox data - Active conversations: Go to the inbox",
+  "time" : {
+    "start" : 1559604979658,
+    "stop" : 1559604979664,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7779d8c22310ccfe",
+  "name" : "[C12564] Delivery pay: Buyer sends shipping offer in currency different than EUR",
+  "time" : {
+    "start" : 1559604973497,
+    "stop" : 1559604973510,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d76c67b048eb49b4",
+  "name" : "[C577] Delivery shipping request: Seller accepts a shipping offer(delivery_AcceptOffer_SellerTimelineWithCarrierTagDisplayed",
+  "time" : {
+    "start" : 1559604975985,
+    "stop" : 1559604976044,
+    "duration" : 59
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8959db5910ed57a",
+  "name" : "[C698] Profile edition: Change birthdate",
+  "time" : {
+    "start" : 1559604992034,
+    "stop" : 1559604992050,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "53bb61c103805aa8",
+  "name" : "[C10886] Conversation data: User profile access from user card",
+  "time" : {
+    "start" : 1559604996854,
+    "stop" : 1559604996870,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bde07467798d2ceb",
+  "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_DATE with value 03 abr.(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+  "time" : {
+    "start" : 1559604995050,
+    "stop" : 1559604995088,
+    "duration" : 38
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1dc0f6e6d35bfef9",
+  "name" : "[C727] Login: Login with a right Wallapop credentials(loginWallapopAccount_05_setValidCredentials_isUserLogged",
+  "time" : {
+    "start" : 1559604987325,
+    "stop" : 1559604987631,
+    "duration" : 306
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f15b8571454bd653",
+  "name" : "[C12560] Delivery pay: Buyer sends shipping offer with invalid phone number (not a mobile number)(payItem_phoneIsNotAMobileNumber_paymentFailed",
+  "time" : {
+    "start" : 1559604973961,
+    "stop" : 1559604974025,
+    "duration" : 64
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a7ad4361c8a818cf",
+  "name" : "[C12540] Delivery accounts: Register bank account with a valid name and IBAN",
+  "time" : {
+    "start" : 1559604981242,
+    "stop" : 1559604981247,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a0a1f19612e58d4c",
+  "name" : "[C37161A] Save Searches: Save a search with no user logged(SaveSearch_01_SaveSearchWithoutUserLogged_IsLoginMainScreenDisplayed",
+  "time" : {
+    "start" : 1559604983039,
+    "stop" : 1559604983324,
+    "duration" : 285
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a94de64266f78592",
+  "name" : "[C581] Delivery timeline: Seller cancels a shipping order",
+  "time" : {
+    "start" : 1559604976084,
+    "stop" : 1559604976097,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f0715073d832e6cf",
+  "name" : "[C12543] Delivery accounts: Delete existing Bank Account(shipping_deleteBankAccountWithValidInfo_editSuccess",
+  "time" : {
+    "start" : 1559604981185,
+    "stop" : 1559604981199,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "651e9cbb02cf827b",
+  "name" : "[C17700] Onboarding: Allow the location permissions after login an user",
+  "time" : {
+    "start" : 1559604988379,
+    "stop" : 1559604988682,
+    "duration" : 303
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "351d6995a1a9b4ab",
+  "name" : "[C695] Profile edition: Change first and last name(editProfile_02_EditName_IsNameSet",
+  "time" : {
+    "start" : 1559604993456,
+    "stop" : 1559604993488,
+    "duration" : 32
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "540b66b5f6c6ca7f",
+  "name" : "Conversation messages: Send a phone number",
+  "time" : {
+    "start" : 1559604984835,
+    "stop" : 1559604984852,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cedd0f38a765a41f",
+  "name" : "[C12596] Delivery tutorials: Go to Faqs from General Tutorial",
+  "time" : {
+    "start" : 1559604976332,
+    "stop" : 1559604976339,
+    "duration" : 7
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54fb5a24fd22f720",
+  "name" : "[C12550] Delivery user profile: Seller deletes a sold item when transaction is succeeded",
+  "time" : {
+    "start" : 1559604974723,
+    "stop" : 1559604974732,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65b8dee5cf0d6823",
+  "name" : "Search Real Estate: Reset filter set in search screen(searchRealEstate_02_SetFiltersAndReset_IsFilterResetLessCategory",
+  "time" : {
+    "start" : 1559604994203,
+    "stop" : 1559604994498,
+    "duration" : 295
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "151523f74432dae7",
+  "name" : "[C720] Profile items: Reserve an item",
+  "time" : {
+    "start" : 1559604985922,
+    "stop" : 1559604985948,
+    "duration" : 26
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c83b3b0d0549f925",
+  "name" : "[C10884] Conversation data: Item detail access from header",
+  "time" : {
+    "start" : 1559604996821,
+    "stop" : 1559604996838,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "822784e292d9425",
+  "name" : "[C17029] Login: See Terms and Conditions from Wallapop login screen",
+  "time" : {
+    "start" : 1559604987658,
+    "stop" : 1559604987951,
+    "duration" : 293
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "630940462a4532c7",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT",
+  "time" : {
+    "start" : 1559604995678,
+    "stop" : 1559604995689,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "33639359a9510b8c",
+  "name" : "[C49] Conversation actions: Blocking an user behaviour",
+  "time" : {
+    "start" : 1559604996918,
+    "stop" : 1559604996938,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "96d1136edd60426d",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user AVAILABLE",
+  "time" : {
+    "start" : 1559604995534,
+    "stop" : 1559604995545,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3e36a0b09a55b071",
+  "name" : "[C695] Profile edition: Change first and last name(editProfile_03_EditSurname_IsSurnameSet",
+  "time" : {
+    "start" : 1559604993270,
+    "stop" : 1559604993356,
+    "duration" : 86
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aa8c1e847047d771",
+  "name" : "Conversation data: New conversation without messages",
+  "time" : {
+    "start" : 1559604983653,
+    "stop" : 1559604983662,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cec4175ef2e7d91d",
+  "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+  "time" : {
+    "start" : 1559604988005,
+    "stop" : 1559604988017,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d2cbe0bc2f494e0d",
+  "name" : "[C84] Inbox data - Active conversations: Empty space",
+  "time" : {
+    "start" : 1559604991473,
+    "stop" : 1559604991515,
+    "duration" : 42
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9c2e37d890ae522",
+  "name" : "[C17027] Register: See Terms and Conditions from Wallapop register screen",
+  "time" : {
+    "start" : 1559604996346,
+    "stop" : 1559604996357,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9370094060167661",
+  "name" : "[C693] Profile edition: Change eMail(editProfile_07_editEmail_isSnackBarDisplayed",
+  "time" : {
+    "start" : 1559604991966,
+    "stop" : 1559604991996,
+    "duration" : 30
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e3f27f5a2aa270e4",
+  "name" : "[C850] Search Cars: Select Cars category and filter by professionals",
+  "time" : {
+    "start" : 1559604980422,
+    "stop" : 1559604980678,
+    "duration" : 256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "76b672a4f498b43",
+  "name" : "[C673] Search Real Estate: Search with different filters getting results(searchRealEstate_01_SearchByAllFilters_AreItemsDisplayed",
+  "time" : {
+    "start" : 1559604993879,
+    "stop" : 1559604994173,
+    "duration" : 294
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "769c09d890efd137",
+  "name" : "[C734] Register: Sign up with a new Wallapop account(registerWallapopAccount_05_setValidCredentials_isUserRegistered",
+  "time" : {
+    "start" : 1559604995890,
+    "stop" : 1559604995910,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "87213f229e82049e",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 1 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+  "time" : {
+    "start" : 1559604995332,
+    "stop" : 1559604995353,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db0ce91ea6ebaded",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Real Estate|Home & Garden|Appliances)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+  "time" : {
+    "start" : 1559604996169,
+    "stop" : 1559604996190,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9606c28f4d482951",
+  "name" : "[C11990] Purchases: Buy a Motor Plan subscription and check the onboarding",
+  "time" : {
+    "start" : 1559604981609,
+    "stop" : 1559604981621,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "da048ea6708067ca",
+  "name" : "Inbox data - Active conversations: Go to the inbox",
+  "time" : {
+    "start" : 1559604979661,
+    "stop" : 1559604979681,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f37527aa89c1194e",
+  "name" : "Search an Ad at the wall and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"",
+  "time" : {
+    "start" : 1559604981513,
+    "stop" : 1559604981517,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ab1f7b8e657dd6cd",
+  "name" : "[C12598] Profile edition: Change gender",
+  "time" : {
+    "start" : 1559604992174,
+    "stop" : 1559604992188,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "63d60bc5b5c54868",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user UNAVAILABLE(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995589,
+    "stop" : 1559604995609,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eba74e9b0258b726",
+  "name" : "otherItem_06_clickChatButtonAtItem_userLogged_isConversationShown",
+  "time" : {
+    "start" : 1559604996517,
+    "stop" : 1559604996528,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dba56bf438fc4332",
+  "name" : "[C12563] Delivery chat: Buyer sends shipping offer for item with free shipping promo enabled",
+  "time" : {
+    "start" : 1559604974212,
+    "stop" : 1559604974299,
+    "duration" : 87
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eb6ca52d56a195fe",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 1 unread messages",
+  "time" : {
+    "start" : 1559604995324,
+    "stop" : 1559604995336,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "191a5668d12bbe2a",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message RECEIVED",
+  "time" : {
+    "start" : 1559604995728,
+    "stop" : 1559604995739,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "63d0a26b56d5ca1",
+  "name" : "[C69] Conversation messages: Send chat messages",
+  "time" : {
+    "start" : 1559604984873,
+    "stop" : 1559604984890,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1c73ddc0851eb154",
+  "name" : "[C703] Profile items: Sell an item to a buyer and do the review",
+  "time" : {
+    "start" : 1559663781728,
+    "stop" : 1559663805571,
+    "duration" : 23843
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5c9cebc9e420e10e",
+  "name" : "[C562] Delivery tutorials: Go to shipping main Tutorial",
+  "time" : {
+    "start" : 1559604976182,
+    "stop" : 1559604976205,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ca73ceb47c83824",
+  "name" : "[C581] Delivery timeline: Seller cancels a shipping order(delivery_cancelTransaction_SellerTimelineCanceledStatusDisplayed",
+  "time" : {
+    "start" : 1559604976087,
+    "stop" : 1559604976121,
+    "duration" : 34
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f8bbd0505163b050",
+  "name" : "[C12542] Delivery accounts: Edit Bank Account with valid name and IBAN",
+  "time" : {
+    "start" : 1559604981274,
+    "stop" : 1559604981280,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "599bcad89cff33eb",
+  "name" : "[C730] Login: Login with a wrong Facebook account(loginFacebookAccount_01_selectNotExistingUser_isUserLogged",
+  "time" : {
+    "start" : 1559604985160,
+    "stop" : 1559604985452,
+    "duration" : 292
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eedd8b40017e082a",
+  "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+  "time" : {
+    "start" : 1559604973557,
+    "stop" : 1559604973583,
+    "duration" : 26
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "77ba0d2fb83db792",
+  "name" : "Onboarding: Deny the location permission after login an user",
+  "time" : {
+    "start" : 1559604989427,
+    "stop" : 1559604989772,
+    "duration" : 345
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b25a76de24348408",
+  "name" : "[C1675A] Delivery user profile: See the number of shipments on my profile (more than one)",
+  "time" : {
+    "start" : 1559604975191,
+    "stop" : 1559604975205,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5d496a73461b90",
+  "name" : "Conversation messages: Send a message with only special characters",
+  "time" : {
+    "start" : 1559604984646,
+    "stop" : 1559604984669,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c72094e15865719d",
+  "name" : "[C792] Item upload: Upload a Consumer Goods item",
+  "time" : {
+    "start" : 1559604979612,
+    "stop" : 1559604979617,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f6d6fa0d2be56534",
+  "name" : "[C37161E] Save Searches: Save the same search after the location was changed",
+  "time" : {
+    "start" : 1559604982725,
+    "stop" : 1559604982998,
+    "duration" : 273
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5055f65bfc401a57",
+  "name" : "Conversation messages: Send a message with only letters",
+  "time" : {
+    "start" : 1559604984901,
+    "stop" : 1559604984911,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8da9d322df796453",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item RESERVED(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604994553,
+    "stop" : 1559604994587,
+    "duration" : 34
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a91acfc05cf6509a",
+  "name" : "[C12547] Delivery accounts: Register credit card with american express number(delivery_addAmericanExpressCreditCard_registerFailed",
+  "time" : {
+    "start" : 1559604981006,
+    "stop" : 1559604981018,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2018e3876c4a062d",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 0 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+  "time" : {
+    "start" : 1559604995294,
+    "stop" : 1559604995312,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24a97a80e833b78a",
+  "name" : "Conversation messages: Send a message with only numbers",
+  "time" : {
+    "start" : 1559604984724,
+    "stop" : 1559604984741,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "44a9ec7e1b7ff75",
+  "name" : "[C726] Login: Login with a right Facebook account",
+  "time" : {
+    "start" : 1559604985470,
+    "stop" : 1559604985748,
+    "duration" : 278
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3ab7229eaeaa4cac",
+  "name" : "[C37161C] Save Searches: Reach saved searches limit(SavedSearchesLimit_03_ReachSavedSearchesLimit_IsReachedLimitBubbleDisplayed",
+  "time" : {
+    "start" : 1559604982155,
+    "stop" : 1559604982420,
+    "duration" : 265
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "efba44c26ac0f9",
+  "name" : "[C37161E] Save Searches: Save the same search after the location was changed(LaunchSearch_05_LaunchSearchAndCheckFiltersScreen_AreFiltersCorrect",
+  "time" : {
+    "start" : 1559604982732,
+    "stop" : 1559604983013,
+    "duration" : 281
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2a6dcad070f4e319",
+  "name" : "[C37160A] Save Searches: Save a search and check messages shown at wall",
+  "time" : {
+    "start" : 1559604981766,
+    "stop" : 1559604981773,
+    "duration" : 7
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5e13b9bef556ec16",
+  "name" : "[C17030] Login: See Privacy Policy from Wallapop login screen",
+  "time" : {
+    "start" : 1559604986396,
+    "stop" : 1559604986681,
+    "duration" : 285
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "30a17beb9b40a499",
+  "name" : "User Review: Sell item and do the review to the seller",
+  "time" : {
+    "start" : 1559604984249,
+    "stop" : 1559604984266,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "abf40644be254844",
+  "name" : "[C10885] Conversation data: User profile access from header",
+  "time" : {
+    "start" : 1559604997012,
+    "stop" : 1559604997033,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43c1bb7046cb67e7",
+  "name" : "[C10886] Conversation data: User profile access from user card",
+  "time" : {
+    "start" : 1559604996867,
+    "stop" : 1559604996892,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d658395a0313d08a",
+  "name" : "[C79] Inbox data - Active conversations: Conversations sorting(ActivesInbox_Data_05_SendMessage_IsInboxReordered",
+  "time" : {
+    "start" : 1559604979770,
+    "stop" : 1559604979783,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "46d4e44291450c3e",
+  "name" : "[C10885] Conversation data: User profile access from header",
+  "time" : {
+    "start" : 1559604997005,
+    "stop" : 1559604997014,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "990999853fc0a248",
+  "name" : "Conversation messages: Send a message with unnecessary spaces",
+  "time" : {
+    "start" : 1559604984466,
+    "stop" : 1559604984475,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "58e122e7e092022d",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user AVAILABLE(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995542,
+    "stop" : 1559604995567,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "23c059c27e376145",
+  "name" : "[C711] Profile items: Favorite and Unfavorite Item",
+  "time" : {
+    "start" : 1559604996405,
+    "stop" : 1559604996415,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "22c0c489b14c1ee8",
+  "name" : "[C652] Item actions: Share an Item via eMail",
+  "time" : {
+    "start" : 1559604996545,
+    "stop" : 1559604996555,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1713d1f61266c9ea",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 100 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+  "time" : {
+    "start" : 1559604995387,
+    "stop" : 1559604995409,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "59e577d1dfae3340",
+  "name" : "[C385] Conversation data: User cards for Consumer Goods",
+  "time" : {
+    "start" : 1559604983827,
+    "stop" : 1559604983836,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f8fc9a0023f80d6",
+  "name" : "[C690] Profile items: Delete a sold product",
+  "time" : {
+    "start" : 1559604985876,
+    "stop" : 1559604985898,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "519a96c98352bf11",
+  "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category(payItem_itemCategoryNotAllowed_NoDeliveryBarDisplayed",
+  "time" : {
+    "start" : 1559604973421,
+    "stop" : 1559604973458,
+    "duration" : 37
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1ba8a0f72bbc5d86",
+  "name" : "[C101] Conversation messages: Autoresend pending messages after open the app again",
+  "time" : {
+    "start" : 1559604984431,
+    "stop" : 1559604984440,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "857cf02ea0551f48",
+  "name" : "[C80] Inbox data - Active conversations: Read conversations",
+  "time" : {
+    "start" : 1559604979799,
+    "stop" : 1559604979803,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a7f8cedfa488308b",
+  "name" : "[C71A] Inbox actions - Active conversations: Delete a conversation swipping",
+  "time" : {
+    "start" : 1559604995225,
+    "stop" : 1559604995235,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e02147ab9943701a",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Cars)",
+  "time" : {
+    "start" : 1559604996260,
+    "stop" : 1559604996270,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8c5a66a64a1bc6e",
+  "name" : "[C645] Item edition: Edit a Consumer Goods item(editItem_01_ConsumerGoodsItem_IsItemUpdated",
+  "time" : {
+    "start" : 1559604981395,
+    "stop" : 1559604981408,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e873b04b765e02b2",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Bikes)",
+  "time" : {
+    "start" : 1559604996213,
+    "stop" : 1559604996223,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f5f8e502c9817f9",
+  "name" : "[C12541] Delivery accounts: Register bank account with invalid IBAN(shipping_registerBankAccount_registerFailed",
+  "time" : {
+    "start" : 1559604981216,
+    "stop" : 1559604981228,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ceb5aae009bca066",
+  "name" : "[C17031] Login: Ask for a new Wallapop user password",
+  "time" : {
+    "start" : 1559604989828,
+    "stop" : 1559604990139,
+    "duration" : 311
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dba03f2b6532cd64",
+  "name" : "[C12545] Delivery accounts: Register a card with valid info(delivery_addCreditCardWithValidInfo_registerSucccess",
+  "time" : {
+    "start" : 1559604981147,
+    "stop" : 1559604981160,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1e0ec7cbf3639e55",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message READ",
+  "time" : {
+    "start" : 1559604995767,
+    "stop" : 1559604995779,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c5adbe3ce9cf845c",
+  "name" : "Onboarding: Skip the location permission after login an user",
+  "time" : {
+    "start" : 1559604989057,
+    "stop" : 1559604989352,
+    "duration" : 295
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f6f4cb2f7a6ac008",
+  "name" : "[C35144] Profile items: Let user delete an inactive item",
+  "time" : {
+    "start" : 1559604985830,
+    "stop" : 1559604985840,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "98460af5b84261ed",
+  "name" : "[C93] Conversation data: Item data at header",
+  "time" : {
+    "start" : 1559604983871,
+    "stop" : 1559604983888,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "696a0676c74c0f48",
+  "name" : "[C1675B] Delivery user profile: See the number of shipments on my profile (exactly one)",
+  "time" : {
+    "start" : 1559604975255,
+    "stop" : 1559604975266,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a2c0f1c9665c75bb",
+  "name" : "Search Cars: Reset filters selected",
+  "time" : {
+    "start" : 1559604980708,
+    "stop" : 1559604980963,
+    "duration" : 255
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "645eddaff887a27d",
+  "name" : "[C850] Search Cars: Select Cars category and filter by professionals",
+  "time" : {
+    "start" : 1559604980424,
+    "stop" : 1559604980692,
+    "duration" : 268
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1abe79e50dde0448",
+  "name" : "[C609] Search Consumer Goods: Do a search with no result(searchConsumerGoods_06_SearchByKeywordWithNoResults_IsWallEmptySpaceDisplated",
+  "time" : {
+    "start" : 1559604978342,
+    "stop" : 1559604978607,
+    "duration" : 265
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1249bdf54d96db89",
+  "name" : "Conversation messages: Send a phone number",
+  "time" : {
+    "start" : 1559604984826,
+    "stop" : 1559604984836,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ecc748903f31fa9",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with 0 unread messages",
+  "time" : {
+    "start" : 1559604995286,
+    "stop" : 1559604995297,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a2227142fb2a37c6",
+  "name" : "[C37162C] Save Searches: Save RE searches and check my saved searches(SaveSearch_03_SaveRESearches_IsMySavedSearchDisplayed",
+  "time" : {
+    "start" : 1559604985050,
+    "stop" : 1559604985068,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3680264cef2a2394",
+  "name" : "[C1676B] Delivery user profile: See a shipping review for sold item in my profile",
+  "time" : {
+    "start" : 1559604975793,
+    "stop" : 1559604975809,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1f71ffc3c862bcac",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Cars)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+  "time" : {
+    "start" : 1559604996267,
+    "stop" : 1559604996291,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5f5bbdfe91654677",
+  "name" : "[C10882] Conversation messages: Suspicious URL third voice",
+  "time" : {
+    "start" : 1559604984557,
+    "stop" : 1559604984579,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b9e695f2a7b17cf",
+  "name" : "Search Consumer Goods: Search by keyword and select one from suggester(searchConsumerGoods_03_SetFilterByKeywordAndSelectFromSuggester_IsCategorySelected",
+  "time" : {
+    "start" : 1559604979187,
+    "stop" : 1559604979451,
+    "duration" : 264
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fc57c2f5d0881e96",
+  "name" : "User Review: Sell item and do the review without comment to the seller",
+  "time" : {
+    "start" : 1559604984053,
+    "stop" : 1559604984066,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4f74007862fe3721",
+  "name" : "[C12562] Delivery chat: Buyer sends shipping offer for a reserved item",
+  "time" : {
+    "start" : 1559604974144,
+    "stop" : 1559604974186,
+    "duration" : 42
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f795439de0c92a30",
+  "name" : "[C35154] Conversation messages: Autoresend pending messages after recover connection",
+  "time" : {
+    "start" : 1559604984404,
+    "stop" : 1559604984421,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ee4fa8a8f325f583",
+  "name" : "[C698] Profile edition: Change birthdate",
+  "time" : {
+    "start" : 1559604992092,
+    "stop" : 1559604992108,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6c9b77c6d6aac0fc",
+  "name" : "[C362] Profile: Reactivate an Expired item",
+  "time" : {
+    "start" : 1559604988283,
+    "stop" : 1559604988322,
+    "duration" : 39
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "acd11fd88b73edf",
+  "name" : "[C703] Profile items: Sell an item to a buyer and do the review",
+  "time" : {
+    "start" : 1559604986015,
+    "stop" : 1559604986036,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "48dc0b33ddc838db",
+  "name" : "[C713] Profile: Share my user profile by Gmail",
+  "time" : {
+    "start" : 1559604993534,
+    "stop" : 1559604993834,
+    "duration" : 300
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b0d5db928991edf7",
+  "name" : "[C15467] Purchases: Bump list upload from empty list(bumpListUploadFromEmptyList",
+  "time" : {
+    "start" : 1559604991079,
+    "stop" : 1559604991426,
+    "duration" : 347
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b14e5c8689d0e2d1",
+  "name" : "[C100] Conversation messages: Prohibited URLs",
+  "time" : {
+    "start" : 1559604984688,
+    "stop" : 1559604984706,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "700dfd8c6ba4d4ed",
+  "name" : "[C577] Delivery shipping request: Seller accepts a shipping offer",
+  "time" : {
+    "start" : 1559604975979,
+    "stop" : 1559604976000,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "39bcf7286106b6f8",
+  "name" : "[C8642] Search Cars: Search with different filters getting results",
+  "time" : {
+    "start" : 1559604979865,
+    "stop" : 1559604980120,
+    "duration" : 255
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f3e5dbc5668a258",
+  "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed(payItem_postalCodeIsNotAllowed_paymentFailed",
+  "time" : {
+    "start" : 1559604973855,
+    "stop" : 1559604973907,
+    "duration" : 52
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2aa3be7d97a29206",
+  "name" : "[C720] Profile items: Reserve an item",
+  "time" : {
+    "start" : 1559604985909,
+    "stop" : 1559604985924,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a4f3384eb91beba1",
+  "name" : "Conversation messages: Send a message and see the notification received",
+  "time" : {
+    "start" : 1559604984360,
+    "stop" : 1559604984370,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2ef0012520fc4e5f",
+  "name" : "[C726] Login: Login with a right Facebook account(loginFacebookAccount_02_selectExistingUser_isUserLogged",
+  "time" : {
+    "start" : 1559604985478,
+    "stop" : 1559604985764,
+    "duration" : 286
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1bab75af36df6f61",
+  "name" : "Search and access to an Ad at the wall",
+  "time" : {
+    "start" : 1559604981570,
+    "stop" : 1559604981574,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "48f30947cafc6502",
+  "name" : "[C12551] Delivery item detail: Edit shipping weight from item detail",
+  "time" : {
+    "start" : 1559604973177,
+    "stop" : 1559604973214,
+    "duration" : 37
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a8dad8baf93e18fa",
+  "name" : "[C37161D] Save Searches: Try to save an existing search",
+  "time" : {
+    "start" : 1559604983344,
+    "stop" : 1559604983617,
+    "duration" : 273
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3b735c1f352a00fb",
+  "name" : "[C692] Profile edition: Change user avatar(editProfile_01_EditAvatar_IsAvatarSet",
+  "time" : {
+    "start" : 1559604991896,
+    "stop" : 1559604991924,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef0fcd4b725355d9",
+  "name" : "[C579] Delivery item detail: Add and Remove weight for my own items",
+  "time" : {
+    "start" : 1559604973122,
+    "stop" : 1559604973150,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "48dc635f76e35892",
+  "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Bikes)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+  "time" : {
+    "start" : 1559604996221,
+    "stop" : 1559604996243,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "edaea819eb98d93c",
+  "name" : "[C90B] Conversation data: Connection status toast",
+  "time" : {
+    "start" : 1559604983696,
+    "stop" : 1559604983712,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e5879bd019eb23db",
+  "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+  "time" : {
+    "start" : 1559604973761,
+    "stop" : 1559604973780,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5cf04954bf83a84b",
+  "name" : "[C71A] Inbox actions - Active conversations: Delete a conversation swipping(ActivesInbox_Actions_08_ArchiveConversationSwipping_IsConversationArchived",
+  "time" : {
+    "start" : 1559604995232,
+    "stop" : 1559604995260,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5ab74eaa1f815391",
+  "name" : "[C70] Conversation actions: Report an user",
+  "time" : {
+    "start" : 1559604996956,
+    "stop" : 1559604996972,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "12c284806088178e",
+  "name" : "[C698] Profile edition: Change birthdate(editProfile_04_EditBirthDay_IsBirthDaySet",
+  "time" : {
+    "start" : 1559604992105,
+    "stop" : 1559604992147,
+    "duration" : 42
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "966a1249bd07f743",
+  "name" : "Conversation data: Conversation's footer",
+  "time" : {
+    "start" : 1559604983731,
+    "stop" : 1559604983747,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "20fae72ddcbd566d",
+  "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category",
+  "time" : {
+    "start" : 1559604973417,
+    "stop" : 1559604973431,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e357ab8155996393",
+  "name" : "[C12596] Delivery tutorials: Go to Faqs from General Tutorial",
+  "time" : {
+    "start" : 1559604976335,
+    "stop" : 1559604976358,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "76cefac5316e88cc",
+  "name" : "[C37161D] Save Searches: Try to save an existing search(SaveSearch_04_SaveExistingSearch_IsSavingNotAllowed",
+  "time" : {
+    "start" : 1559604983351,
+    "stop" : 1559604983631,
+    "duration" : 280
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6ae7679f693f8cca",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT_TO_ME(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+  "time" : {
+    "start" : 1559604995640,
+    "stop" : 1559604995661,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8dfe7f7b3026936b",
+  "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+  "time" : {
+    "start" : 1559604997121,
+    "stop" : 1559604997458,
+    "duration" : 337
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5d4052f1f1415b7d",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Cars|Motor & Accesories)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+  "time" : {
+    "start" : 1559604996127,
+    "stop" : 1559604996149,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "74234ca918093e6b",
+  "name" : "[C441] Inbox data - Active conversations: Check conversations information",
+  "time" : {
+    "start" : 1559604979741,
+    "stop" : 1559604979753,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f56398e3c1a9b48",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user BLOCKED",
+  "time" : {
+    "start" : 1559604995491,
+    "stop" : 1559604995503,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "761c65f9bf2e8023",
+  "name" : "[C652] Item actions: Share an Item via eMail",
+  "time" : {
+    "start" : 1559604996553,
+    "stop" : 1559604996578,
+    "duration" : 25
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c28cebf26e21d776",
+  "name" : "[C17028] Register: See Privacy Policy from Wallapop register screen",
+  "time" : {
+    "start" : 1559604995989,
+    "stop" : 1559604996003,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "edde944504d8bcfc",
+  "name" : "[C6441] Purchases: Bump list purchase screen redirection",
+  "time" : {
+    "start" : 1559604990225,
+    "stop" : 1559604990591,
+    "duration" : 366
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c03e0a6ec6277f9f",
+  "name" : "[C35154] Conversation messages: Autoresend pending messages after recover connection",
+  "time" : {
+    "start" : 1559604984397,
+    "stop" : 1559604984406,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bca0d8de2d43a2cf",
+  "name" : "PRO Subscription: Check if user is eligible to buy a PRO Subscription",
+  "time" : {
+    "start" : 1559604988148,
+    "stop" : 1559604988162,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1bd42ea065ba82fc",
+  "name" : "Testplan Execution: 'Critical Path Suite'",
+  "time" : {
+    "start" : 1559558574405,
+    "stop" : 1559558574813,
+    "duration" : 408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "913937221f52b967",
+  "name" : "Conversation messages: Send a random sentence",
+  "time" : {
+    "start" : 1559604984504,
+    "stop" : 1559604984518,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1ef85ff13fff4ccb",
+  "name" : "[C17026] Register: Sign up with a Wallapop account with wrong or duplicated eMail",
+  "time" : {
+    "start" : 1559604995931,
+    "stop" : 1559604995944,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4340516f07f86745",
+  "name" : "Onboarding: See the location permission after skip login",
+  "time" : {
+    "start" : 1559604988728,
+    "stop" : 1559604989037,
+    "duration" : 309
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c2db9d5b6f819d45",
+  "name" : "[C12550] Delivery user profile: Seller deletes a sold item when transaction is succeeded",
+  "time" : {
+    "start" : 1559604974727,
+    "stop" : 1559604974769,
+    "duration" : 42
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ea04df7ab237298",
+  "name" : "Conversation data: Verify 3rd voices data",
+  "time" : {
+    "start" : 1559604983899,
+    "stop" : 1559604983907,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "56280f1a3c1c4b8e",
+  "name" : "Conversation data: New conversation without messages",
+  "time" : {
+    "start" : 1559604983660,
+    "stop" : 1559604983677,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dfeca374e52eafed",
+  "name" : "[C1676B] Delivery user profile: See a shipping review for sold item in my profile",
+  "time" : {
+    "start" : 1559604975796,
+    "stop" : 1559604975827,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4ec76b49c1b232b5",
+  "name" : "[C12548] Delivery accounts: Edit credit card with valid info(delivery_editCardWithValidInfo_editSuccess",
+  "time" : {
+    "start" : 1559604981064,
+    "stop" : 1559604981075,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d788e70ad469496f",
+  "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+  "time" : {
+    "start" : 1559604977698,
+    "stop" : 1559604977957,
+    "duration" : 259
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9d785b64b2366cec",
+  "name" : "[C26851C] Onboarding: Select favourite categories (Categories: TV, Audio & Cameras|Computers & Electronic|Cell Phones & Accessories|Movies, Books & Music)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+  "time" : {
+    "start" : 1559604996070,
+    "stop" : 1559604996100,
+    "duration" : 30
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "52340768f5e68060",
+  "name" : "[C12569] Delivery shipping request: Seller rejects a delivery offer",
+  "time" : {
+    "start" : 1559604975889,
+    "stop" : 1559604975918,
+    "duration" : 29
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "15227573e31bc8da",
+  "name" : "[C727] Login: Login with a right Wallapop credentials",
+  "time" : {
+    "start" : 1559604987012,
+    "stop" : 1559604987289,
+    "duration" : 277
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3fa13b8493735d20",
+  "name" : "Conversation messages: Send an email address",
+  "time" : {
+    "start" : 1559604984797,
+    "stop" : 1559604984814,
+    "duration" : 17
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b949eba58fe2d1",
+  "name" : "Onboarding: Skip the location permission after login an user",
+  "time" : {
+    "start" : 1559604989069,
+    "stop" : 1559604989381,
+    "duration" : 312
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e38979c4156d4061",
+  "name" : "[C37160A] Save Searches: Save a search and check messages shown at wall(SaveSearch_01_SaveSearch_IsMessagesDisplayed",
+  "time" : {
+    "start" : 1559604981770,
+    "stop" : 1559604981788,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5c93c9be959180c9",
+  "name" : "[C12551] Delivery item detail: Edit shipping weight from item detail",
+  "time" : {
+    "start" : 1559604973173,
+    "stop" : 1559604973191,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b4c282a12ab3dee",
+  "name" : "[C12569] Delivery shipping request: Seller rejects a delivery offer(delivery_rejectOffer_rejectedScreen",
+  "time" : {
+    "start" : 1559604975893,
+    "stop" : 1559604975947,
+    "duration" : 54
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "adebaf4389952abe",
+  "name" : "[C6441] Purchases: Listing Fee purchase",
+  "time" : {
+    "start" : 1559604979481,
+    "stop" : 1559604979486,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "811d5cb76f4608df",
+  "name" : "[C365] Purchases: Buy a City Bump for an item and check the counter",
+  "time" : {
+    "start" : 1559576617617,
+    "stop" : 1559576617645,
+    "duration" : 28
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c8e2af50c927c4ad",
+  "name" : "[C695] Profile edition: Change first and last name",
+  "time" : {
+    "start" : 1559604993248,
+    "stop" : 1559604993274,
+    "duration" : 26
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4438891198f75cd6",
+  "name" : "[C12598] Profile edition: Change gender",
+  "time" : {
+    "start" : 1559604992260,
+    "stop" : 1559604992282,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4d9b1927f4c39915",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the item RESERVED",
+  "time" : {
+    "start" : 1559604994541,
+    "stop" : 1559604994557,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65a5fdb68ed1a7a3",
+  "name" : "[C80] Inbox data - Active conversations: Read conversations",
+  "time" : {
+    "start" : 1559604979801,
+    "stop" : 1559604979813,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f1745c27eed415d8",
+  "name" : "PRO Subscription: Check if user is eligible to buy a PRO Subscription",
+  "time" : {
+    "start" : 1559604988159,
+    "stop" : 1559604988208,
+    "duration" : 49
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "663da61b7ab9c440",
+  "name" : "[C724] Profile verification: Phone verification",
+  "time" : {
+    "start" : 1559604985785,
+    "stop" : 1559604985794,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e53ff0046a61086b",
+  "name" : "[C385] Conversation data: User cards for Consumer Goods",
+  "time" : {
+    "start" : 1559604983834,
+    "stop" : 1559604983853,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ae7ff09d66b74d",
+  "name" : "[C90A] Inbox data - Active conversations: Connection status toast",
+  "time" : {
+    "start" : 1559604979826,
+    "stop" : 1559604979830,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "144fd1db13d58b31",
+  "name" : "[C648] Item actions: Report this listing in item Page",
+  "time" : {
+    "start" : 1559604996703,
+    "stop" : 1559604996717,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7e1004ba1d7ae3f7",
+  "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+  "time" : {
+    "start" : 1559663747135,
+    "stop" : 1559663767913,
+    "duration" : 20778
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5ea09c8171b1d308",
+  "name" : "[C673] Search Real Estate: Search with different filters getting results",
+  "time" : {
+    "start" : 1559604993871,
+    "stop" : 1559604994153,
+    "duration" : 282
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9231049a5b5f0471",
+  "name" : "[C84] Inbox data - Active conversations: Empty space",
+  "time" : {
+    "start" : 1559604991512,
+    "stop" : 1559604991592,
+    "duration" : 80
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b8ccd7ff959ec885",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT_TO_ME",
+  "time" : {
+    "start" : 1559604995633,
+    "stop" : 1559604995642,
+    "duration" : 9
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bcfdf1b457117b41",
+  "name" : "[C11990] Purchases: Buy a Motor Plan subscription and check the onboarding",
+  "time" : {
+    "start" : 1559604981608,
+    "stop" : 1559604981612,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "370fd7d163efb831",
+  "name" : "[C449] Conversation messages: Messages information",
+  "time" : {
+    "start" : 1559604983797,
+    "stop" : 1559604983815,
+    "duration" : 18
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43b2ba86d0467384",
+  "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category",
+  "time" : {
+    "start" : 1559604973345,
+    "stop" : 1559604973359,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "521824b3813fb249",
+  "name" : "[C646] Item actions: Favorite an item at the item detail",
+  "time" : {
+    "start" : 1559663767992,
+    "stop" : 1559663781676,
+    "duration" : 13684
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "aa7341cd6ea8e4e3",
+  "name" : "Upload: List 20 Consumer Goods Items",
+  "time" : {
+    "start" : 1559604979584,
+    "stop" : 1559604979588,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1020e8610b8a123a",
+  "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+  "time" : {
+    "start" : 1559604988015,
+    "stop" : 1559604988048,
+    "duration" : 33
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2fc9d043b62a12f7",
+  "name" : "Search Consumer Goods: Search by keyword and select one from suggester",
+  "time" : {
+    "start" : 1559604979185,
+    "stop" : 1559604979441,
+    "duration" : 256
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "540bd2c6e5d0a5aa",
+  "name" : "[C12574] Delivery accounts: Seller cash out money to bank account",
+  "time" : {
+    "start" : 1559604974532,
+    "stop" : 1559604974543,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4b50693f1bdbdaa6",
+  "name" : "[C1676A] Delivery user profile: See a shipping review for bought item in my profile",
+  "time" : {
+    "start" : 1559604975656,
+    "stop" : 1559604975722,
+    "duration" : 66
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d7b592c58b77b80c",
+  "name" : "[C740] Help: Access and sections",
+  "time" : {
+    "start" : 1559514222585,
+    "stop" : 1559514222954,
+    "duration" : 369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f764199cdcf1fa",
+  "name" : "[C447] Item actions: Open a conversation depending if user is logged or not",
+  "time" : {
+    "start" : 1559604996450,
+    "stop" : 1559604996464,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "36f4f8fc676dedb3",
+  "name" : "Inbox actions - Active conversations: Select some conversations",
+  "time" : {
+    "start" : 1559604995164,
+    "stop" : 1559604995176,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b5f4bdf5f1a453be",
+  "name" : "[C12542] Delivery accounts: Edit Bank Account with valid name and IBAN(shipping_editBankAccountWithValidInfo_editSuccess",
+  "time" : {
+    "start" : 1559604981277,
+    "stop" : 1559604981291,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2a958203ee19e59c",
+  "name" : "Search Consumer Goods: Reset filters selected",
+  "time" : {
+    "start" : 1559604976776,
+    "stop" : 1559604977091,
+    "duration" : 315
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c6551a9cfe7ca50",
+  "name" : "CriticalPathSuite",
+  "time" : {
+    "start" : 1559555857497,
+    "stop" : 1559555857506,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "849956e5b06ca6a2",
+  "name" : "Conversation messages: Send a multiline message",
+  "time" : {
+    "start" : 1559604984761,
+    "stop" : 1559604984780,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "702e384ff4b3bb1",
+  "name" : "[C117A] Verify if top banner promoted exists at wall and is clickable",
+  "time" : {
+    "start" : 1559604981433,
+    "stop" : 1559604981438,
+    "duration" : 5
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b19c9ac76f58e05e",
+  "name" : "[C648] Item actions: Report this listing in item Page",
+  "time" : {
+    "start" : 1559604996644,
+    "stop" : 1559604996658,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2335d59c3b402013",
+  "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+  "time" : {
+    "start" : 1559604977122,
+    "stop" : 1559604977385,
+    "duration" : 263
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b9c02887e0be84ed",
+  "name" : "Inbox actions - Active conversations: Select a conversation by OTHERUSER_NAME with value seller(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+  "time" : {
+    "start" : 1559604994882,
+    "stop" : 1559604994946,
+    "duration" : 64
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7125599469a84a3f",
+  "name" : "[C100] Conversation messages: Prohibited URLs",
+  "time" : {
+    "start" : 1559604984681,
+    "stop" : 1559604984691,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7512b0ed1543e71e",
+  "name" : "Inbox actions - Active conversations: Go to a conversation with the user UNAVAILABLE",
+  "time" : {
+    "start" : 1559604995581,
+    "stop" : 1559604995592,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a0cb5c4f2f13e219",
+  "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches",
+  "time" : {
+    "start" : 1559604984958,
+    "stop" : 1559604984969,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ac3ba6164a5dd766",
+  "name" : "[C579] Delivery item detail: Add and Remove weight for my own items",
+  "time" : {
+    "start" : 1559604973119,
+    "stop" : 1559604973131,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2fe98274ddae793f",
+  "name" : "[C12543] Delivery accounts: Delete existing Bank Account",
+  "time" : {
+    "start" : 1559604981183,
+    "stop" : 1559604981189,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7b73750c31c1a8cf",
+  "name" : "[C72] Conversation actions: Report an item",
+  "time" : {
+    "start" : 1559604997052,
+    "stop" : 1559604997083,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5466cec95e3f2375",
+  "name" : "[C10879] Item edition: Edit a Car item(editItem_02_CarsItem_IsItemUpdated",
+  "time" : {
+    "start" : 1559604981366,
+    "stop" : 1559604981379,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "68788d422aa0fc55",
+  "name" : "Search an Ad at the wall and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"(ads_information_atWall_isAdShownOK",
+  "time" : {
+    "start" : 1559604981515,
+    "stop" : 1559604981527,
+    "duration" : 12
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3b4a9fdfc05e549f",
+  "name" : "Inbox actions - Active conversations: Go to conversation 3",
+  "time" : {
+    "start" : 1559604995435,
+    "stop" : 1559604995448,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f804ed98941f9782",
+  "name" : "[C37160D] Save Searches: Delete a search",
+  "time" : {
+    "start" : 1559604981736,
+    "stop" : 1559604981740,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "98a94cb872d75b03",
+  "name" : "[C1675B] Delivery user profile: See the number of shipments on my profile (exactly one)",
+  "time" : {
+    "start" : 1559604975258,
+    "stop" : 1559604975284,
+    "duration" : 26
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d5bb0c215db47956",
+  "name" : "[C69] Conversation messages: Send chat messages",
+  "time" : {
+    "start" : 1559663694954,
+    "stop" : 1559663746862,
+    "duration" : 51908
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4e15586466286ab9",
+  "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+  "time" : {
+    "start" : 1559604973851,
+    "stop" : 1559604973873,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d041cbf8ff3bde99",
+  "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+  "time" : {
+    "start" : 1559604977411,
+    "stop" : 1559604977670,
+    "duration" : 259
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8484ca09997e75d5",
+  "name" : "[C692] Profile edition: Change user avatar",
+  "time" : {
+    "start" : 1559604991885,
+    "stop" : 1559604991899,
+    "duration" : 14
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c21fbb19c3419501",
+  "name" : "[C8578] Item edition: Edit a Real Estate item(editItem_03_RealEstateItem_IsItemUpdated",
+  "time" : {
+    "start" : 1559604981328,
+    "stop" : 1559604981349,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83cbfead2039e51a",
+  "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_TEXT with value Hello",
+  "time" : {
+    "start" : 1559604995103,
+    "stop" : 1559604995116,
+    "duration" : 13
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5c8e15447827a2e3",
+  "name" : "[C85] Conversation data: Rating third voice actions behaviour(userReview_01_SellItemAndDoReview_isReviewDone",
+  "time" : {
+    "start" : 1559604984138,
+    "stop" : 1559604984162,
+    "duration" : 24
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "16955efbbbea1155",
+  "name" : "[C6441] Purchases: Listing Fee purchase",
+  "time" : {
+    "start" : 1559604979484,
+    "stop" : 1559604979495,
+    "duration" : 11
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "139024424c87de4d",
+  "name" : "Search Cars: Search by keyword of a Car with Cars category preselected(searchCars_04_byCarKeywordAndCategory_CarsCategoryDisplayed",
+  "time" : {
+    "start" : 1559604980146,
+    "stop" : 1559604980411,
+    "duration" : 265
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

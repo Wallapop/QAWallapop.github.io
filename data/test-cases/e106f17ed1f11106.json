@@ -1,0 +1,64 @@
+{
+  "uid" : "e106f17ed1f11106",
+  "name" : "[C739] Help: Legal agreements",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_02_goToHelpLegalAgreementsScreen_isLegalAgreementsDisplayed",
+  "historyId" : "cf0846ac0a86df343dd2e1a234df4ca0",
+  "time" : {
+    "start" : 1559253143674,
+    "stop" : 1559253209444,
+    "duration" : 65770
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SmokeTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "Help"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "13540@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_02_goToHelpLegalAgreementsScreen_isLegalAgreementsDisplayed"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "Help", "RegressionTest_Android", "SmokeTest_Android" ]
+  },
+  "source" : "e106f17ed1f11106.json",
+  "parameterValues" : [ ]
+}

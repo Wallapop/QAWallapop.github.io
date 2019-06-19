@@ -1,0 +1,253 @@
+{
+  "uid" : "5d5da017a5875e4d",
+  "name" : "[C740] Help: Access and sections",
+  "fullName" : "com.wallapop.functionality.help.behaviour.HelpTest.help_01_goToHelpScreen_isSectionsDisplayed",
+  "historyId" : "c3f0e3dc840aeb12997e44e47613b583",
+  "time" : {
+    "start" : 1559604997470,
+    "stop" : 1559604997766,
+    "duration" : 296
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\r\n\tat java.util.Calendar.setTime(Unknown Source)\r\n\tat java.text.SimpleDateFormat.format(Unknown Source)\r\n\tat java.text.SimpleDateFormat.format(Unknown Source)\r\n\tat java.text.DateFormat.format(Unknown Source)\r\n\tat com.wallapop.functionality.general.screens.AndroidScreen.takeScreenshot(AndroidScreen.java:406)\r\n\tat com.wallapop.configuration.TestRunner.handleTestExecutionException(TestRunner.java:96)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestExecutionExceptionHandlers(TestMethodTestDescriptor.java:211)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestExecutionExceptionHandlers(TestMethodTestDescriptor.java:197)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:189)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:181)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:128)\r\n\tat org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)\r\n\tat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)\r\n\tat java.util.ArrayList.forEach(Unknown Source)\r\n\tat org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)\r\n\tat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)\r\n\tat java.util.ArrayList.forEach(Unknown Source)\r\n\tat org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)\r\n\tat org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)\r\n\tat org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)\r\n\tat org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)\r\n\tat org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)\r\n\tat org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:229)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:197)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:211)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:191)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:137)\r\n\tat org.junit.platform.runner.JUnitPlatform.run(JUnitPlatform.java:134)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:272)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:236)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "SmokeTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "RegressionTest_Android"
+  }, {
+    "name" : "tag",
+    "value" : "Help"
+  }, {
+    "name" : "host",
+    "value" : "QA-DavidCalvo"
+  }, {
+    "name" : "thread",
+    "value" : "6452@QA-DavidCalvo.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "help_01_goToHelpScreen_isSectionsDisplayed"
+  }, {
+    "name" : "suite",
+    "value" : "com.wallapop.functionality.help.behaviour.HelpTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "331e62bb359a8d21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559577644020,
+        "stop" : 1559577656645,
+        "duration" : 12625
+      }
+    }, {
+      "uid" : "d350a1a1bfbbcee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559577507994,
+        "stop" : 1559577528012,
+        "duration" : 20018
+      }
+    }, {
+      "uid" : "cb149145e5ab9410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559577188460,
+        "stop" : 1559577202667,
+        "duration" : 14207
+      }
+    }, {
+      "uid" : "7a8633496d51992c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559573003708,
+        "stop" : 1559573016300,
+        "duration" : 12592
+      }
+    }, {
+      "uid" : "9a6a64874ee18787",
+      "status" : "broken",
+      "statusDetails" : "sun.nio.ch.FileChannelImpl.position0(Ljava/io/FileDescriptor;J)J",
+      "time" : {
+        "start" : 1559572868632,
+        "stop" : 1559572870567,
+        "duration" : 1935
+      }
+    }, {
+      "uid" : "93bc58ae52024e08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517680691,
+        "stop" : 1559517695780,
+        "duration" : 15089
+      }
+    }, {
+      "uid" : "c60b073b078267ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517537565,
+        "stop" : 1559517552872,
+        "duration" : 15307
+      }
+    }, {
+      "uid" : "5ec929153f8c5a64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517333490,
+        "stop" : 1559517351104,
+        "duration" : 17614
+      }
+    }, {
+      "uid" : "33a7f0a807077977",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517237418,
+        "stop" : 1559517252327,
+        "duration" : 14909
+      }
+    }, {
+      "uid" : "20ebee37887641f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559517024534,
+        "stop" : 1559517038806,
+        "duration" : 14272
+      }
+    }, {
+      "uid" : "a342b54fb32f301f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559514437898,
+        "stop" : 1559514453884,
+        "duration" : 15986
+      }
+    }, {
+      "uid" : "4e9a5b2ed4ec3e76",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'QA-DAVIDCALVO', ip: '169.254.49.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , databaseEnabled: false, desired: {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , deviceName: 0ea85270, deviceReadyTimeout: 1, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, platformName: android, skipDeviceInitialization: true, systemPort: 8223, udid: 0ea85270}, deviceApiLevel: 23, deviceManufacturer: samsung, deviceModel: SM-G900F, deviceName: 0ea85270, deviceReadyTimeout: 1, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 0ea85270, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 6.0.1, skipDeviceInitialization: true, statBarHeight: 72, systemPort: 8223, takesScreenshot: true, udid: 0ea85270, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: b9dac871-3c7a-4ff8-994b-83a1a40e330e",
+      "time" : {
+        "start" : 1559513931062,
+        "stop" : 1559513941154,
+        "duration" : 10092
+      }
+    }, {
+      "uid" : "b1faa24de5a805b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559512522911,
+        "stop" : 1559512538760,
+        "duration" : 15849
+      }
+    }, {
+      "uid" : "22652a4a7c951b44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559512135701,
+        "stop" : 1559512152156,
+        "duration" : 16455
+      }
+    }, {
+      "uid" : "cf0a32881c2ed337",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559511532561,
+        "stop" : 1559511548304,
+        "duration" : 15743
+      }
+    }, {
+      "uid" : "8abd15d5addf413d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559511090986,
+        "stop" : 1559511104395,
+        "duration" : 13409
+      }
+    }, {
+      "uid" : "51844f010df3cd9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559511043548,
+        "stop" : 1559511057559,
+        "duration" : 14011
+      }
+    }, {
+      "uid" : "9454e5720b000bb1",
+      "status" : "broken",
+      "statusDetails" : "Failed to load ApplicationContext",
+      "time" : {
+        "start" : 1559510813594,
+        "stop" : 1559510813595,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6618618604962ec0",
+      "status" : "broken",
+      "statusDetails" : "An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8223\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'QA-DAVIDCALVO', ip: '169.254.49.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , databaseEnabled: false, desired: {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , deviceName: 0ea85270, deviceReadyTimeout: 1, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, platformName: android, skipDeviceInitialization: true, systemPort: 8223, udid: 0ea85270}, deviceApiLevel: 23, deviceManufacturer: samsung, deviceModel: SM-G900F, deviceName: 0ea85270, deviceReadyTimeout: 1, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 0ea85270, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 6.0.1, skipDeviceInitialization: true, statBarHeight: 72, systemPort: 8223, takesScreenshot: true, udid: 0ea85270, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: bd80ca99-7c9b-464d-b5b3-4b78150a8bb4",
+      "time" : {
+        "start" : 1559499047991,
+        "stop" : 1559499055238,
+        "duration" : 7247
+      }
+    }, {
+      "uid" : "f033e029fcbd73aa",
+      "status" : "broken",
+      "statusDetails" : "Error creating bean with name 'com.wallapop.functionality.help.behaviour.HelpTest': Unsatisfied dependency expressed through field 'helpScreen'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.wallapop.functionality.help.screens.HelpScreen' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}",
+      "time" : {
+        "start" : 1559495717092,
+        "stop" : 1559495717093,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fe19e2123ba00ea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559287849964,
+        "stop" : 1559287872150,
+        "duration" : 22186
+      }
+    }, {
+      "uid" : "f7a60040d695720",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559253120121,
+        "stop" : 1559253143656,
+        "duration" : 23535
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "Help", "RegressionTest_Android", "SmokeTest_Android" ]
+  },
+  "source" : "5d5da017a5875e4d.json",
+  "parameterValues" : [ ]
+}

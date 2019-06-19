@@ -1,0 +1,5294 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "io.appium.uiautomator2.common.exceptions.NoSuchDriverException: A session is either terminated or not started\n\tat io.appium.uiautomator2.model.AppiumUIA2Driver.getSessionOrThrow(AppiumUIA2Driver.java:54)\n\tat io.appium.uiautomator2.utils.ElementLocationHelpers.rewriteIdLocator(ElementLocationHelpers.java:62)\n\tat io.appium.uiautomator2.handler.FindElement.findElement(FindElement.java:97)\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:75)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:37)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:252)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:243)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:44)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)\n\tat io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)\n\tat io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)\n\tat io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)\n\tat java.lang.Thread.run(Thread.java:818)\n\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'QA-DAVIDCALVO', ip: '169.254.49.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , databaseEnabled: false, desired: {androidInstallTimeout: 150000, app: , appActivity: com.rewallapop.ui.main.Main..., appPackage: com.wallapop, automationName: UiAutomator2, avd: , deviceName: 0ea85270, deviceReadyTimeout: 1, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, platformName: android, skipDeviceInitialization: true, systemPort: 8223, udid: 0ea85270}, deviceApiLevel: 23, deviceManufacturer: samsung, deviceModel: SM-G900F, deviceName: 0ea85270, deviceReadyTimeout: 1, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: 0ea85270, fullReset: false, ignoreUnimportantViews: true, isHeadless: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, noReset: true, normalizeTagNames: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 6.0.1, skipDeviceInitialization: true, statBarHeight: 72, systemPort: 8223, takesScreenshot: true, udid: 0ea85270, viewportRect: {height: 1848, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: bca9483d-c137-4b56-84d7-378a5b54d40b\n*** Element info: {Using=id, value=gdprCheckbox}",
+      "children" : [ {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "154d26baf5fe6e16",
+        "parentUid" : "6ed446310216a74950172d2b83886c57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559514103453,
+          "stop" : 1559514107413,
+          "duration" : 3960
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ed446310216a74950172d2b83886c57"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'QA-DAVIDCALVO', ip: '169.254.49.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: AndroidDriver",
+      "children" : [ {
+        "name" : "[C365] Purchases: Buy a City Bump for an item and check the counter",
+        "uid" : "811d5cb76f4608df",
+        "parentUid" : "9b6e5ebce94586cf6fa2342c3c82a5d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559576617617,
+          "stop" : 1559576617645,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b6e5ebce94586cf6fa2342c3c82a5d0"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "[C12552] Delivery chat: Seller add shipping weight from chat conversation",
+        "uid" : "47e3a860670e4d17",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604972643,
+          "stop" : 1559604972953,
+          "duration" : 310
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12552] Delivery chat: Seller add shipping weight from chat conversation",
+        "uid" : "6ea50bf87e0962bb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604972654,
+          "stop" : 1559604973097,
+          "duration" : 443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C579] Delivery item detail: Add and Remove weight for my own items",
+        "uid" : "ac3ba6164a5dd766",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973119,
+          "stop" : 1559604973131,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C579] Delivery item detail: Add and Remove weight for my own items",
+        "uid" : "ef0fcd4b725355d9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973122,
+          "stop" : 1559604973150,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12551] Delivery item detail: Edit shipping weight from item detail",
+        "uid" : "5c93c9be959180c9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973173,
+          "stop" : 1559604973191,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12551] Delivery item detail: Edit shipping weight from item detail",
+        "uid" : "48f30947cafc6502",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973177,
+          "stop" : 1559604973214,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category",
+        "uid" : "43b2ba86d0467384",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973345,
+          "stop" : 1559604973359,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category",
+        "uid" : "20fae72ddcbd566d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973417,
+          "stop" : 1559604973431,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12561] Delivery chat: Buyer sends shipping offer for a not allowed item category(payItem_itemCategoryNotAllowed_NoDeliveryBarDisplayed",
+        "uid" : "519a96c98352bf11",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973421,
+          "stop" : 1559604973458,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12564] Delivery pay: Buyer sends shipping offer in currency different than EUR",
+        "uid" : "7779d8c22310ccfe",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973497,
+          "stop" : 1559604973510,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12564] Delivery pay: Buyer sends shipping offer in currency different than EUR(payItem_currencyNotEuro_PaymentFailed",
+        "uid" : "eb9b5bba39059328",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973500,
+          "stop" : 1559604973529,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+        "uid" : "eedd8b40017e082a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973557,
+          "stop" : 1559604973583,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+        "uid" : "853c7bdd8b630b60",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973670,
+          "stop" : 1559604973691,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+        "uid" : "e5879bd019eb23db",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973761,
+          "stop" : 1559604973780,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed",
+        "uid" : "4e15586466286ab9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973851,
+          "stop" : 1559604973873,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12558] Delivery pay: Buyer sends shipping offer with postal code not allowed(payItem_postalCodeIsNotAllowed_paymentFailed",
+        "uid" : "6f3e5dbc5668a258",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973855,
+          "stop" : 1559604973907,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12560] Delivery pay: Buyer sends shipping offer with invalid phone number (not a mobile number)",
+        "uid" : "d9e4d90345089021",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973958,
+          "stop" : 1559604973995,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12560] Delivery pay: Buyer sends shipping offer with invalid phone number (not a mobile number)(payItem_phoneIsNotAMobileNumber_paymentFailed",
+        "uid" : "f15b8571454bd653",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604973961,
+          "stop" : 1559604974025,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12559] Delivery pay: Buyer sends shipping offer with an invalid phone number",
+        "uid" : "5303d7c5d30be111",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974077,
+          "stop" : 1559604974097,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12559] Delivery pay: Buyer sends shipping offer with an invalid phone number(payItem_phoneIsInValid_paymentFailed",
+        "uid" : "6a557633e5ee6c67",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974081,
+          "stop" : 1559604974116,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12562] Delivery chat: Buyer sends shipping offer for a reserved item",
+        "uid" : "f9a8321712f04627",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974141,
+          "stop" : 1559604974167,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12562] Delivery chat: Buyer sends shipping offer for a reserved item",
+        "uid" : "4f74007862fe3721",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974144,
+          "stop" : 1559604974186,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12563] Delivery chat: Buyer sends shipping offer for item with free shipping promo enabled",
+        "uid" : "7eed71805ed8f3a8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974209,
+          "stop" : 1559604974226,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12563] Delivery chat: Buyer sends shipping offer for item with free shipping promo enabled",
+        "uid" : "dba56bf438fc4332",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974212,
+          "stop" : 1559604974299,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12557] Delivery pay: Buyer sends shipping offer with invalid postal code number",
+        "uid" : "766019eefacb3181",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974381,
+          "stop" : 1559604974397,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12557] Delivery pay: Buyer sends shipping offer with invalid postal code number(payItem_postalCodeIsInvalid_paymentFailed",
+        "uid" : "c85a1b29ad3b1b89",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974384,
+          "stop" : 1559604974449,
+          "duration" : 65
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12574] Delivery accounts: Seller cash out money to bank account",
+        "uid" : "540bd2c6e5d0a5aa",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974532,
+          "stop" : 1559604974543,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12574] Delivery accounts: Seller cash out money to bank account(delivery_cashOutToBankAccount_Success",
+        "uid" : "d1109b0a593358b3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974535,
+          "stop" : 1559604974595,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12550] Delivery user profile: Seller deletes a sold item when transaction is succeeded",
+        "uid" : "54fb5a24fd22f720",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974723,
+          "stop" : 1559604974732,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12550] Delivery user profile: Seller deletes a sold item when transaction is succeeded",
+        "uid" : "c2db9d5b6f819d45",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604974727,
+          "stop" : 1559604974769,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1677A] Delivery user profile: See the number of shipments on other profiles (more than one)",
+        "uid" : "825d8c525fdc50f7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975140,
+          "stop" : 1559604975151,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1677A] Delivery user profile: See the number of shipments on other profiles (more than one)",
+        "uid" : "fd32d0eaff4b905f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975143,
+          "stop" : 1559604975168,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1675A] Delivery user profile: See the number of shipments on my profile (more than one)",
+        "uid" : "b25a76de24348408",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975191,
+          "stop" : 1559604975205,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1675A] Delivery user profile: See the number of shipments on my profile (more than one)",
+        "uid" : "fc3511c773649ae2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975194,
+          "stop" : 1559604975230,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1675B] Delivery user profile: See the number of shipments on my profile (exactly one)",
+        "uid" : "696a0676c74c0f48",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975255,
+          "stop" : 1559604975266,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1675B] Delivery user profile: See the number of shipments on my profile (exactly one)",
+        "uid" : "98a94cb872d75b03",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975258,
+          "stop" : 1559604975284,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1677B] Delivery user profile: See the number of shipments on other profiles (exactly one)",
+        "uid" : "439bd299cef3f9ad",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975313,
+          "stop" : 1559604975323,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1677B] Delivery user profile: See the number of shipments on other profiles (exactly one)",
+        "uid" : "3ccc544f98fa2eb5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975316,
+          "stop" : 1559604975346,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1676A] Delivery user profile: See a shipping review for bought item in my profile",
+        "uid" : "4b50693f1bdbdaa6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975656,
+          "stop" : 1559604975722,
+          "duration" : 66
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1676A] Delivery user profile: See a shipping review for bought item in my profile",
+        "uid" : "39a624c60f5dafa3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975689,
+          "stop" : 1559604975746,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1676B] Delivery user profile: See a shipping review for sold item in my profile",
+        "uid" : "3680264cef2a2394",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975793,
+          "stop" : 1559604975809,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C1676B] Delivery user profile: See a shipping review for sold item in my profile",
+        "uid" : "dfeca374e52eafed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975796,
+          "stop" : 1559604975827,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12569] Delivery shipping request: Seller rejects a delivery offer",
+        "uid" : "52340768f5e68060",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975889,
+          "stop" : 1559604975918,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12569] Delivery shipping request: Seller rejects a delivery offer(delivery_rejectOffer_rejectedScreen",
+        "uid" : "7b4c282a12ab3dee",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975893,
+          "stop" : 1559604975947,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C577] Delivery shipping request: Seller accepts a shipping offer",
+        "uid" : "700dfd8c6ba4d4ed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975979,
+          "stop" : 1559604976000,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C577] Delivery shipping request: Seller accepts a shipping offer(delivery_AcceptOffer_SellerTimelineWithCarrierTagDisplayed",
+        "uid" : "d76c67b048eb49b4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604975985,
+          "stop" : 1559604976044,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C581] Delivery timeline: Seller cancels a shipping order",
+        "uid" : "a94de64266f78592",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976084,
+          "stop" : 1559604976097,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C581] Delivery timeline: Seller cancels a shipping order(delivery_cancelTransaction_SellerTimelineCanceledStatusDisplayed",
+        "uid" : "7ca73ceb47c83824",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976087,
+          "stop" : 1559604976121,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C562] Delivery tutorials: Go to shipping main Tutorial",
+        "uid" : "c0f5ad42eeac3265",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976179,
+          "stop" : 1559604976187,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C562] Delivery tutorials: Go to shipping main Tutorial",
+        "uid" : "5c9cebc9e420e10e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976182,
+          "stop" : 1559604976205,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12571] Delivery tutorials: Go to buyer tutorial from wallapop protect link at pay item",
+        "uid" : "793eaa47836c16cb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976227,
+          "stop" : 1559604976235,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12571] Delivery tutorials: Go to buyer tutorial from wallapop protect link at pay item",
+        "uid" : "7c32b7121e9a7fb7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976230,
+          "stop" : 1559604976252,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C679] Delivery tutorials: Go to buyer tutorial from pay item",
+        "uid" : "26ec8912362e8dce",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976272,
+          "stop" : 1559604976293,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C679] Delivery tutorials: Go to buyer tutorial from pay item",
+        "uid" : "83f88009eb17a1d8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976288,
+          "stop" : 1559604976310,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12596] Delivery tutorials: Go to Faqs from General Tutorial",
+        "uid" : "cedd0f38a765a41f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976332,
+          "stop" : 1559604976339,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12596] Delivery tutorials: Go to Faqs from General Tutorial",
+        "uid" : "e357ab8155996393",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976335,
+          "stop" : 1559604976358,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12572] Delivery tutorials: Go to commission info tutorial from pay item",
+        "uid" : "f174a51b5e326c8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976378,
+          "stop" : 1559604976388,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12572] Delivery tutorials: Go to commission info tutorial from pay item",
+        "uid" : "3017683fd94bf8f7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976383,
+          "stop" : 1559604976407,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Reset filters selected",
+        "uid" : "2a958203ee19e59c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976776,
+          "stop" : 1559604977091,
+          "duration" : 315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Reset filters selected(searchConsumerGoods_02_SetFiltersAndReset_IsFilterResetLessCategory",
+        "uid" : "8186dee5667ba342",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604976780,
+          "stop" : 1559604977104,
+          "duration" : 324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+        "uid" : "2335d59c3b402013",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604977122,
+          "stop" : 1559604977385,
+          "duration" : 263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+        "uid" : "d041cbf8ff3bde99",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604977411,
+          "stop" : 1559604977670,
+          "duration" : 259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C846] Search Consumer Goods: Filter by location entered manually",
+        "uid" : "d788e70ad469496f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604977698,
+          "stop" : 1559604977957,
+          "duration" : 259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C846] Search Consumer Goods: Filter by location entered manually(searchConsumerGoods_05_changeLocationSearch_itemLocation",
+        "uid" : "631d627d6c440322",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604977701,
+          "stop" : 1559604977968,
+          "duration" : 267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Search by keyword with a category preselected",
+        "uid" : "e50b9aeb27e06db",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978050,
+          "stop" : 1559604978309,
+          "duration" : 259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Search by keyword with a category preselected(searchConsumerGoods_04_SetCategoryAndFilterByKeyword_IsSameCategorySelected",
+        "uid" : "dcbcad97c423cf78",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978053,
+          "stop" : 1559604978321,
+          "duration" : 268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C609] Search Consumer Goods: Do a search with no result",
+        "uid" : "e0e25dc3f213166e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978340,
+          "stop" : 1559604978597,
+          "duration" : 257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C609] Search Consumer Goods: Do a search with no result(searchConsumerGoods_06_SearchByKeywordWithNoResults_IsWallEmptySpaceDisplated",
+        "uid" : "1abe79e50dde0448",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978342,
+          "stop" : 1559604978607,
+          "duration" : 265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C828] Search Consumer Goods: Search with different filters getting results",
+        "uid" : "fb9483b34c7fe6d1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978622,
+          "stop" : 1559604978876,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C828] Search Consumer Goods: Search with different filters getting results(searchConsumerGoods_01_SearchByAllFilters_AreItemsDisplayed",
+        "uid" : "3677aa1ab2253aaa",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978623,
+          "stop" : 1559604978887,
+          "duration" : 264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Delete filters applied after search",
+        "uid" : "15f28b14b5bf9934",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978903,
+          "stop" : 1559604979160,
+          "duration" : 257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Delete filters applied after search(searchConsumerGoods_07_SearchByKeywordWithNoResultsAndResetFilter_AreItemsDisplayed",
+        "uid" : "f78cbfb6ea2cccd5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604978905,
+          "stop" : 1559604979170,
+          "duration" : 265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Search by keyword and select one from suggester",
+        "uid" : "2fc9d043b62a12f7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979185,
+          "stop" : 1559604979441,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Consumer Goods: Search by keyword and select one from suggester(searchConsumerGoods_03_SetFilterByKeywordAndSelectFromSuggester_IsCategorySelected",
+        "uid" : "7b9e695f2a7b17cf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979187,
+          "stop" : 1559604979451,
+          "duration" : 264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C6441] Purchases: Listing Fee purchase",
+        "uid" : "adebaf4389952abe",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979481,
+          "stop" : 1559604979486,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C6441] Purchases: Listing Fee purchase",
+        "uid" : "16955efbbbea1155",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979484,
+          "stop" : 1559604979495,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10872] Item upload: Upload a Car item",
+        "uid" : "f98e7df7afa9b88c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979522,
+          "stop" : 1559604979529,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10872] Item upload: Upload a Car item(upload_02_CarItem_IsItemUploaded",
+        "uid" : "2d48350108e363bc",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979525,
+          "stop" : 1559604979539,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C4261] Item upload: Upload a Real Estate item",
+        "uid" : "570be57fb64b06c3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979553,
+          "stop" : 1559604979557,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C4261] Item upload: Upload a Real Estate item(upload_03_RealEstateItem_IsItemUploaded",
+        "uid" : "791742af61c0639",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979555,
+          "stop" : 1559604979568,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Upload: List 20 Consumer Goods Items",
+        "uid" : "aa7341cd6ea8e4e3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979584,
+          "stop" : 1559604979588,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Upload: List 20 Consumer Goods Items(upload_04_UploadSeveralConsumerGoodsItems_AllItemsUploaded",
+        "uid" : "2c9c2972ff108801",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979585,
+          "stop" : 1559604979598,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C792] Item upload: Upload a Consumer Goods item",
+        "uid" : "c72094e15865719d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979612,
+          "stop" : 1559604979617,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C792] Item upload: Upload a Consumer Goods item(upload_01_ConsumerGoodsItem_IsItemUploaded",
+        "uid" : "318a1e265c0aa601",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979614,
+          "stop" : 1559604979628,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox data - Active conversations: Go to the inbox",
+        "uid" : "8a57b454fc232e41",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979658,
+          "stop" : 1559604979664,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox data - Active conversations: Go to the inbox",
+        "uid" : "da048ea6708067ca",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979661,
+          "stop" : 1559604979681,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C82] Inbox data - Active conversations: Pagination",
+        "uid" : "cf1098454b370884",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979699,
+          "stop" : 1559604979704,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C82] Inbox data - Active conversations: Pagination",
+        "uid" : "5569b944823cf5b1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979702,
+          "stop" : 1559604979716,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C441] Inbox data - Active conversations: Check conversations information",
+        "uid" : "fffabf06d0d6ca89",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979738,
+          "stop" : 1559604979743,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C441] Inbox data - Active conversations: Check conversations information",
+        "uid" : "74234ca918093e6b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979741,
+          "stop" : 1559604979753,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C79] Inbox data - Active conversations: Conversations sorting",
+        "uid" : "277661c55338db31",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979768,
+          "stop" : 1559604979772,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C79] Inbox data - Active conversations: Conversations sorting(ActivesInbox_Data_05_SendMessage_IsInboxReordered",
+        "uid" : "d658395a0313d08a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979770,
+          "stop" : 1559604979783,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C80] Inbox data - Active conversations: Read conversations",
+        "uid" : "857cf02ea0551f48",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979799,
+          "stop" : 1559604979803,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C80] Inbox data - Active conversations: Read conversations",
+        "uid" : "65a5fdb68ed1a7a3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979801,
+          "stop" : 1559604979813,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C90A] Inbox data - Active conversations: Connection status toast",
+        "uid" : "e2ae7ff09d66b74d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979826,
+          "stop" : 1559604979830,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C90A] Inbox data - Active conversations: Connection status toast",
+        "uid" : "a9a8e18d53c748ac",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979828,
+          "stop" : 1559604979839,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C8642] Search Cars: Search with different filters getting results",
+        "uid" : "39bcf7286106b6f8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979865,
+          "stop" : 1559604980120,
+          "duration" : 255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C8642] Search Cars: Search with different filters getting results(searchCars_01_SearchByAllFilters_AreItemsDisplayed",
+        "uid" : "4ceb6b5bb9a084e1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604979867,
+          "stop" : 1559604980130,
+          "duration" : 263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Cars: Search by keyword of a Car with Cars category preselected",
+        "uid" : "e35d1c0f6590377f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980144,
+          "stop" : 1559604980401,
+          "duration" : 257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Cars: Search by keyword of a Car with Cars category preselected(searchCars_04_byCarKeywordAndCategory_CarsCategoryDisplayed",
+        "uid" : "139024424c87de4d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980146,
+          "stop" : 1559604980411,
+          "duration" : 265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C850] Search Cars: Select Cars category and filter by professionals",
+        "uid" : "e3f27f5a2aa270e4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980422,
+          "stop" : 1559604980678,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C850] Search Cars: Select Cars category and filter by professionals",
+        "uid" : "645eddaff887a27d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980424,
+          "stop" : 1559604980692,
+          "duration" : 268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Cars: Reset filters selected",
+        "uid" : "a2c0f1c9665c75bb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980708,
+          "stop" : 1559604980963,
+          "duration" : 255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Cars: Reset filters selected(searchCars_02_SetFiltersAndReset_IsFilterResetLessCategory",
+        "uid" : "58e0326c1cabe6c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604980710,
+          "stop" : 1559604980974,
+          "duration" : 264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12547] Delivery accounts: Register credit card with american express number",
+        "uid" : "c14c4fd07ace82d7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981004,
+          "stop" : 1559604981008,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12547] Delivery accounts: Register credit card with american express number(delivery_addAmericanExpressCreditCard_registerFailed",
+        "uid" : "a91acfc05cf6509a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981006,
+          "stop" : 1559604981018,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12549] Delivery accounts: Delete existing credit card",
+        "uid" : "260cd7aba9ee89d5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981033,
+          "stop" : 1559604981037,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12549] Delivery accounts: Delete existing credit card(delivery_deleteCard_deleteSuccess",
+        "uid" : "f220de82f64b4bb1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981035,
+          "stop" : 1559604981047,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12548] Delivery accounts: Edit credit card with valid info",
+        "uid" : "b63a041e8284fe36",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981061,
+          "stop" : 1559604981066,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12548] Delivery accounts: Edit credit card with valid info(delivery_editCardWithValidInfo_editSuccess",
+        "uid" : "4ec76b49c1b232b5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981064,
+          "stop" : 1559604981075,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12546] Delivery accounts: Register a card with invalid info",
+        "uid" : "e28ef1435551e7a1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981091,
+          "stop" : 1559604981095,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12546] Delivery accounts: Register a card with invalid info",
+        "uid" : "11302e94c4280a2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981117,
+          "stop" : 1559604981121,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12546] Delivery accounts: Register a card with invalid info(delivery_addCreditCardWithInvalidInfo_registerFailed",
+        "uid" : "5835f4f236609e7f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981118,
+          "stop" : 1559604981130,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12545] Delivery accounts: Register a card with valid info",
+        "uid" : "b290ccd1c76048f8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981144,
+          "stop" : 1559604981150,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12545] Delivery accounts: Register a card with valid info(delivery_addCreditCardWithValidInfo_registerSucccess",
+        "uid" : "dba03f2b6532cd64",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981147,
+          "stop" : 1559604981160,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12543] Delivery accounts: Delete existing Bank Account",
+        "uid" : "2fe98274ddae793f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981183,
+          "stop" : 1559604981189,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12543] Delivery accounts: Delete existing Bank Account(shipping_deleteBankAccountWithValidInfo_editSuccess",
+        "uid" : "f0715073d832e6cf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981185,
+          "stop" : 1559604981199,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12541] Delivery accounts: Register bank account with invalid IBAN",
+        "uid" : "f9a7bd85825d474b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981213,
+          "stop" : 1559604981218,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12541] Delivery accounts: Register bank account with invalid IBAN(shipping_registerBankAccount_registerFailed",
+        "uid" : "6f5f8e502c9817f9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981216,
+          "stop" : 1559604981228,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12540] Delivery accounts: Register bank account with a valid name and IBAN",
+        "uid" : "a7ad4361c8a818cf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981242,
+          "stop" : 1559604981247,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12540] Delivery accounts: Register bank account with a valid name and IBAN(shipping_registerBankAccount_registerSuccess",
+        "uid" : "9751ecb6df1b981e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981244,
+          "stop" : 1559604981257,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12542] Delivery accounts: Edit Bank Account with valid name and IBAN",
+        "uid" : "f8bbd0505163b050",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981274,
+          "stop" : 1559604981280,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12542] Delivery accounts: Edit Bank Account with valid name and IBAN(shipping_editBankAccountWithValidInfo_editSuccess",
+        "uid" : "b5f4bdf5f1a453be",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981277,
+          "stop" : 1559604981291,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C8578] Item edition: Edit a Real Estate item",
+        "uid" : "249be805578baeea",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981325,
+          "stop" : 1559604981331,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C8578] Item edition: Edit a Real Estate item(editItem_03_RealEstateItem_IsItemUpdated",
+        "uid" : "c21fbb19c3419501",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981328,
+          "stop" : 1559604981349,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10879] Item edition: Edit a Car item",
+        "uid" : "96ad32bd192fd5ff",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981364,
+          "stop" : 1559604981368,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10879] Item edition: Edit a Car item(editItem_02_CarsItem_IsItemUpdated",
+        "uid" : "5466cec95e3f2375",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981366,
+          "stop" : 1559604981379,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C645] Item edition: Edit a Consumer Goods item",
+        "uid" : "7e1e9bc8c2cac0b1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981393,
+          "stop" : 1559604981397,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C645] Item edition: Edit a Consumer Goods item(editItem_01_ConsumerGoodsItem_IsItemUpdated",
+        "uid" : "c8c5a66a64a1bc6e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981395,
+          "stop" : 1559604981408,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C117A] Verify if top banner promoted exists at wall and is clickable",
+        "uid" : "702e384ff4b3bb1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981433,
+          "stop" : 1559604981438,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C117A] Verify if top banner promoted exists at wall and is clickable",
+        "uid" : "fe028b86c699b067",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981435,
+          "stop" : 1559604981447,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C117B] Verify if top banner promoted exists at cars search and is clickable",
+        "uid" : "2a60e14c5ff2b5b5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981459,
+          "stop" : 1559604981464,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C117B] Verify if top banner promoted exists at cars search and is clickable",
+        "uid" : "cf4cfe828cff870d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981461,
+          "stop" : 1559604981474,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search and access to an Ad at the item detail",
+        "uid" : "885a29d4f9b6f956",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981484,
+          "stop" : 1559604981488,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search and access to an Ad at the item detail",
+        "uid" : "5bc0694095ba9661",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981486,
+          "stop" : 1559604981498,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search an Ad at the wall and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"",
+        "uid" : "f37527aa89c1194e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981513,
+          "stop" : 1559604981517,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search an Ad at the wall and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"(ads_information_atWall_isAdShownOK",
+        "uid" : "68788d422aa0fc55",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981515,
+          "stop" : 1559604981527,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search an Ad at item detail and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"",
+        "uid" : "351473a12e4179d1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981542,
+          "stop" : 1559604981547,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search an Ad at item detail and check AdType \"Debug\" AdServer \"DFP\" AdProvider \"MoPub\"(ads_information_atItem_isAdShownOK",
+        "uid" : "3225f60ee7d0d027",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981544,
+          "stop" : 1559604981557,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search and access to an Ad at the wall",
+        "uid" : "1bab75af36df6f61",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981570,
+          "stop" : 1559604981574,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search and access to an Ad at the wall",
+        "uid" : "8d764aa4696d202e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981572,
+          "stop" : 1559604981585,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C11990] Purchases: Buy a Motor Plan subscription and check the onboarding",
+        "uid" : "bcfdf1b457117b41",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981608,
+          "stop" : 1559604981612,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C11990] Purchases: Buy a Motor Plan subscription and check the onboarding",
+        "uid" : "9606c28f4d482951",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981609,
+          "stop" : 1559604981621,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160B] Save Searches: Do a search with no results and check Save search button at wall",
+        "uid" : "26bf871dcd8de50a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981667,
+          "stop" : 1559604981673,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160B] Save Searches: Do a search with no results and check Save search button at wall(SaveSearch_02_DoSearchWithoutResults_IsSaveSearchButtonDisplayed",
+        "uid" : "8b2d66cf4d724314",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981670,
+          "stop" : 1559604981686,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160C] Save Searches: Edit a saved search",
+        "uid" : "b99a4a7b683a98b0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981702,
+          "stop" : 1559604981707,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160C] Save Searches: Edit a saved search(SaveSearch_03_EditSavedSearch_IsSearchModified",
+        "uid" : "708c351b209caf5d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981704,
+          "stop" : 1559604981721,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160D] Save Searches: Delete a search",
+        "uid" : "f804ed98941f9782",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981736,
+          "stop" : 1559604981740,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160D] Save Searches: Delete a search(DeleteSearch_04_DeleteSearch_IsSearchDeleted",
+        "uid" : "6204322ef8ef2471",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981738,
+          "stop" : 1559604981751,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160A] Save Searches: Save a search and check messages shown at wall",
+        "uid" : "2a6dcad070f4e319",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981766,
+          "stop" : 1559604981773,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160A] Save Searches: Save a search and check messages shown at wall(SaveSearch_01_SaveSearch_IsMessagesDisplayed",
+        "uid" : "e38979c4156d4061",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981770,
+          "stop" : 1559604981788,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160E] Save Searches: Launch a search from the list and check the filters in filters screen",
+        "uid" : "23152efa5e9be10f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981808,
+          "stop" : 1559604981814,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37160E] Save Searches: Launch a search from the list and check the filters in filters screen(SaveSearch_05_SaveTheSameSearchInDifferentLocation_IsSearchSaved",
+        "uid" : "84db25dce352aa7d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981811,
+          "stop" : 1559604981828,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C729] Login: Login with a right Google account",
+        "uid" : "290352a2c431ca4e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981854,
+          "stop" : 1559604982114,
+          "duration" : 260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C729] Login: Login with a right Google account(loginGmailAccount_02_selectExistingUser_isUserLogged",
+        "uid" : "fda102a1377c0d5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604981857,
+          "stop" : 1559604982124,
+          "duration" : 267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161C] Save Searches: Reach saved searches limit",
+        "uid" : "2dc9504768e8b026",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982154,
+          "stop" : 1559604982409,
+          "duration" : 255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161C] Save Searches: Reach saved searches limit(SavedSearchesLimit_03_ReachSavedSearchesLimit_IsReachedLimitBubbleDisplayed",
+        "uid" : "3ab7229eaeaa4cac",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982155,
+          "stop" : 1559604982420,
+          "duration" : 265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161B] Save Searches: Do a search with results and check Save search button at wall",
+        "uid" : "b46944755d1d9da",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982433,
+          "stop" : 1559604982692,
+          "duration" : 259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161B] Save Searches: Do a search with results and check Save search button at wall(SaveSearch_02_DoSearchWithResultsAndScroll_IsSaveSearchButtonDisplayedWhenScrollUp",
+        "uid" : "baafaaf5b7f61380",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982435,
+          "stop" : 1559604982707,
+          "duration" : 272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161E] Save Searches: Save the same search after the location was changed",
+        "uid" : "f6d6fa0d2be56534",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982725,
+          "stop" : 1559604982998,
+          "duration" : 273
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161E] Save Searches: Save the same search after the location was changed(LaunchSearch_05_LaunchSearchAndCheckFiltersScreen_AreFiltersCorrect",
+        "uid" : "efba44c26ac0f9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604982732,
+          "stop" : 1559604983013,
+          "duration" : 281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161A] Save Searches: Save a search with no user logged",
+        "uid" : "9cb939e9c5041b35",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983032,
+          "stop" : 1559604983311,
+          "duration" : 279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161A] Save Searches: Save a search with no user logged(SaveSearch_01_SaveSearchWithoutUserLogged_IsLoginMainScreenDisplayed",
+        "uid" : "a0a1f19612e58d4c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983039,
+          "stop" : 1559604983324,
+          "duration" : 285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161D] Save Searches: Try to save an existing search",
+        "uid" : "a8dad8baf93e18fa",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983344,
+          "stop" : 1559604983617,
+          "duration" : 273
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37161D] Save Searches: Try to save an existing search(SaveSearch_04_SaveExistingSearch_IsSavingNotAllowed",
+        "uid" : "76cefac5316e88cc",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983351,
+          "stop" : 1559604983631,
+          "duration" : 280
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: New conversation without messages",
+        "uid" : "aa8c1e847047d771",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983653,
+          "stop" : 1559604983662,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: New conversation without messages",
+        "uid" : "56280f1a3c1c4b8e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983660,
+          "stop" : 1559604983677,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C90B] Conversation data: Connection status toast",
+        "uid" : "3913c9e6318a1347",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983689,
+          "stop" : 1559604983698,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C90B] Conversation data: Connection status toast",
+        "uid" : "edaea819eb98d93c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983696,
+          "stop" : 1559604983712,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: Conversation's footer",
+        "uid" : "d7f40244830d1cd",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983724,
+          "stop" : 1559604983733,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: Conversation's footer",
+        "uid" : "966a1249bd07f743",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983731,
+          "stop" : 1559604983747,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: User data at header",
+        "uid" : "fcd20054cb2a4198",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983758,
+          "stop" : 1559604983766,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: User data at header",
+        "uid" : "3547bd58b67a1f14",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983764,
+          "stop" : 1559604983780,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C449] Conversation messages: Messages information",
+        "uid" : "4c1b2394266f09b6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983791,
+          "stop" : 1559604983799,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C449] Conversation messages: Messages information",
+        "uid" : "370fd7d163efb831",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983797,
+          "stop" : 1559604983815,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C385] Conversation data: User cards for Consumer Goods",
+        "uid" : "59e577d1dfae3340",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983827,
+          "stop" : 1559604983836,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C385] Conversation data: User cards for Consumer Goods",
+        "uid" : "e53ff0046a61086b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983834,
+          "stop" : 1559604983853,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C93] Conversation data: Item data at header",
+        "uid" : "3a9c1b21b10bc7be",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983864,
+          "stop" : 1559604983873,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C93] Conversation data: Item data at header",
+        "uid" : "98460af5b84261ed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983871,
+          "stop" : 1559604983888,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: Verify 3rd voices data",
+        "uid" : "4ea04df7ab237298",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983899,
+          "stop" : 1559604983907,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation data: Verify 3rd voices data",
+        "uid" : "57615848bc29915e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983905,
+          "stop" : 1559604983921,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item to user and don't do any review",
+        "uid" : "fa66d7eed3d6a0b3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983945,
+          "stop" : 1559604983957,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item to user and don't do any review",
+        "uid" : "cab48d0c931272b4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604983951,
+          "stop" : 1559604983975,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item and do the review without comment to the seller",
+        "uid" : "fc57c2f5d0881e96",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984053,
+          "stop" : 1559604984066,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item and do the review without comment to the seller(userReview_03_SellItemAndDoBuyerReview_isReviewDone",
+        "uid" : "e28928420fa3ff2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984060,
+          "stop" : 1559604984091,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C85] Conversation data: Rating third voice actions behaviour",
+        "uid" : "e59341359fff7fdd",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984123,
+          "stop" : 1559604984143,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C85] Conversation data: Rating third voice actions behaviour(userReview_01_SellItemAndDoReview_isReviewDone",
+        "uid" : "5c8e15447827a2e3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984138,
+          "stop" : 1559604984162,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Buy item and do the review to the buyer",
+        "uid" : "8934427a6b798ba3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984190,
+          "stop" : 1559604984204,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Buy item and do the review to the buyer(userReview_04_BuyerDoesSellerReview_isReviewDone",
+        "uid" : "216ddbbcd6d16782",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984198,
+          "stop" : 1559604984223,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item and do the review to the seller",
+        "uid" : "30a17beb9b40a499",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984249,
+          "stop" : 1559604984266,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Review: Sell item and do the review to the seller(userReview_02_SellItemAndDoFullReview_isReviewDone",
+        "uid" : "f42468167e4e6ee7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984261,
+          "stop" : 1559604984286,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with 300 characters",
+        "uid" : "16e8d39253b8997a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984318,
+          "stop" : 1559604984334,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with 300 characters",
+        "uid" : "620f178b074966fb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984332,
+          "stop" : 1559604984349,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message and see the notification received",
+        "uid" : "a4f3384eb91beba1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984360,
+          "stop" : 1559604984370,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message and see the notification received",
+        "uid" : "4a3c8c66c5726e63",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984368,
+          "stop" : 1559604984386,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C35154] Conversation messages: Autoresend pending messages after recover connection",
+        "uid" : "c03e0a6ec6277f9f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984397,
+          "stop" : 1559604984406,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C35154] Conversation messages: Autoresend pending messages after recover connection",
+        "uid" : "f795439de0c92a30",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984404,
+          "stop" : 1559604984421,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C101] Conversation messages: Autoresend pending messages after open the app again",
+        "uid" : "1ba8a0f72bbc5d86",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984431,
+          "stop" : 1559604984440,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C101] Conversation messages: Autoresend pending messages after open the app again",
+        "uid" : "3a72d2fab5dcff1d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984438,
+          "stop" : 1559604984455,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with unnecessary spaces",
+        "uid" : "990999853fc0a248",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984466,
+          "stop" : 1559604984475,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with unnecessary spaces",
+        "uid" : "eb639b4452e3db25",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984473,
+          "stop" : 1559604984492,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a random sentence",
+        "uid" : "913937221f52b967",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984504,
+          "stop" : 1559604984518,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a random sentence",
+        "uid" : "8d4dab73bb53e259",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984515,
+          "stop" : 1559604984534,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10882] Conversation messages: Suspicious URL third voice",
+        "uid" : "27505aa18d8fbe12",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984547,
+          "stop" : 1559604984560,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10882] Conversation messages: Suspicious URL third voice",
+        "uid" : "5f5bbdfe91654677",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984557,
+          "stop" : 1559604984579,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10881] Conversation messages: Allowed URLs",
+        "uid" : "e52e1c8c1b2c5565",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984594,
+          "stop" : 1559604984606,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10881] Conversation messages: Allowed URLs",
+        "uid" : "59131b9d47ac5685",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984603,
+          "stop" : 1559604984627,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only special characters",
+        "uid" : "9207a4d8cc4e1aae",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984639,
+          "stop" : 1559604984649,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only special characters",
+        "uid" : "8d5d496a73461b90",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984646,
+          "stop" : 1559604984669,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C100] Conversation messages: Prohibited URLs",
+        "uid" : "7125599469a84a3f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984681,
+          "stop" : 1559604984691,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C100] Conversation messages: Prohibited URLs",
+        "uid" : "b14e5c8689d0e2d1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984688,
+          "stop" : 1559604984706,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only numbers",
+        "uid" : "968e1324219594d4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984717,
+          "stop" : 1559604984726,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only numbers",
+        "uid" : "24a97a80e833b78a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984724,
+          "stop" : 1559604984741,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a multiline message",
+        "uid" : "ab0073479fc116a1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984752,
+          "stop" : 1559604984763,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a multiline message",
+        "uid" : "849956e5b06ca6a2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984761,
+          "stop" : 1559604984780,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send an email address",
+        "uid" : "e642b14396b6d7ce",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984790,
+          "stop" : 1559604984799,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send an email address",
+        "uid" : "3fa13b8493735d20",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984797,
+          "stop" : 1559604984814,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a phone number",
+        "uid" : "1249bdf54d96db89",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984826,
+          "stop" : 1559604984836,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a phone number",
+        "uid" : "540b66b5f6c6ca7f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984835,
+          "stop" : 1559604984852,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C69] Conversation messages: Send chat messages",
+        "uid" : "63d0a26b56d5ca1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984873,
+          "stop" : 1559604984890,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only letters",
+        "uid" : "5055f65bfc401a57",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984901,
+          "stop" : 1559604984911,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Conversation messages: Send a message with only letters",
+        "uid" : "f99f9bd74f89b885",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984908,
+          "stop" : 1559604984927,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches",
+        "uid" : "a0cb5c4f2f13e219",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984958,
+          "stop" : 1559604984969,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches",
+        "uid" : "f24f3497d07a69ed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604984998,
+          "stop" : 1559604985007,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162A] Save Searches: Save CG searches and check my saved searches(SaveSearch_01_SaveCGSearches_IsMySavedSearchDisplayed",
+        "uid" : "612054b74bf83a2e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985005,
+          "stop" : 1559604985023,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162C] Save Searches: Save RE searches and check my saved searches",
+        "uid" : "95d26a6c6eb653a7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985042,
+          "stop" : 1559604985052,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162C] Save Searches: Save RE searches and check my saved searches(SaveSearch_03_SaveRESearches_IsMySavedSearchDisplayed",
+        "uid" : "a2227142fb2a37c6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985050,
+          "stop" : 1559604985068,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162B] Save Searches: Save Cars searches and check my saved searches",
+        "uid" : "69627d54fd102342",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985089,
+          "stop" : 1559604985099,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C37162B] Save Searches: Save Cars searches and check my saved searches(SaveSearch_02_SaveCarsSearches_IsMySavedSearchDisplayed",
+        "uid" : "f28469206fde38f3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985097,
+          "stop" : 1559604985116,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C730] Login: Login with a wrong Facebook account",
+        "uid" : "30165fdb649803fb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985151,
+          "stop" : 1559604985435,
+          "duration" : 284
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C730] Login: Login with a wrong Facebook account(loginFacebookAccount_01_selectNotExistingUser_isUserLogged",
+        "uid" : "599bcad89cff33eb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985160,
+          "stop" : 1559604985452,
+          "duration" : 292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C726] Login: Login with a right Facebook account",
+        "uid" : "44a9ec7e1b7ff75",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985470,
+          "stop" : 1559604985748,
+          "duration" : 278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C726] Login: Login with a right Facebook account(loginFacebookAccount_02_selectExistingUser_isUserLogged",
+        "uid" : "2ef0012520fc4e5f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985478,
+          "stop" : 1559604985764,
+          "duration" : 286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C724] Profile verification: Phone verification",
+        "uid" : "663da61b7ab9c440",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985785,
+          "stop" : 1559604985794,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C724] Profile verification: Phone verification",
+        "uid" : "4c75d148e33f7f98",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985792,
+          "stop" : 1559604985809,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C35144] Profile items: Let user delete an inactive item",
+        "uid" : "f6f4cb2f7a6ac008",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985830,
+          "stop" : 1559604985840,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C35144] Profile items: Let user delete an inactive item",
+        "uid" : "4998fe7ed6c47543",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985838,
+          "stop" : 1559604985855,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C690] Profile items: Delete a sold product",
+        "uid" : "aa51e5e713bc7e60",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985869,
+          "stop" : 1559604985878,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C690] Profile items: Delete a sold product",
+        "uid" : "f8fc9a0023f80d6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985876,
+          "stop" : 1559604985898,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C720] Profile items: Reserve an item",
+        "uid" : "2aa3be7d97a29206",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985909,
+          "stop" : 1559604985924,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C720] Profile items: Reserve an item",
+        "uid" : "151523f74432dae7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985922,
+          "stop" : 1559604985948,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C689] Profile items: Delete a selling product",
+        "uid" : "fa5e7e02f66daff5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985959,
+          "stop" : 1559604985973,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C689] Profile items: Delete a selling product",
+        "uid" : "281bf14198fa1cf9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604985971,
+          "stop" : 1559604985992,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C703] Profile items: Sell an item to a buyer and do the review",
+        "uid" : "acd11fd88b73edf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986015,
+          "stop" : 1559604986036,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C731] Login: Login with a wrong Wallapop email",
+        "uid" : "3dbdb9c15e976eb5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986068,
+          "stop" : 1559604986361,
+          "duration" : 293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C731] Login: Login with a wrong Wallapop email(loginWallapopAccount_03_setWrongEmail_isUserNotLogged",
+        "uid" : "a98329aef9bac5cd",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986079,
+          "stop" : 1559604986376,
+          "duration" : 297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17030] Login: See Privacy Policy from Wallapop login screen",
+        "uid" : "89ef11e939395e66",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986387,
+          "stop" : 1559604986666,
+          "duration" : 279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17030] Login: See Privacy Policy from Wallapop login screen",
+        "uid" : "5e13b9bef556ec16",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986396,
+          "stop" : 1559604986681,
+          "duration" : 285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17025] Login: Login with a wrong Wallapop password",
+        "uid" : "28ec72203959dca0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986700,
+          "stop" : 1559604986977,
+          "duration" : 277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17025] Login: Login with a wrong Wallapop password(loginWallapopAccount_04_setWrongPassword_isUserNotLogged",
+        "uid" : "bcc1180307951554",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604986708,
+          "stop" : 1559604986993,
+          "duration" : 285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C727] Login: Login with a right Wallapop credentials",
+        "uid" : "15227573e31bc8da",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604987012,
+          "stop" : 1559604987289,
+          "duration" : 277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C727] Login: Login with a right Wallapop credentials",
+        "uid" : "2c3c3ab96b2b3114",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604987317,
+          "stop" : 1559604987603,
+          "duration" : 286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C727] Login: Login with a right Wallapop credentials(loginWallapopAccount_05_setValidCredentials_isUserLogged",
+        "uid" : "1dc0f6e6d35bfef9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604987325,
+          "stop" : 1559604987631,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17029] Login: See Terms and Conditions from Wallapop login screen",
+        "uid" : "822784e292d9425",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604987658,
+          "stop" : 1559604987951,
+          "duration" : 293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17029] Login: See Terms and Conditions from Wallapop login screen",
+        "uid" : "44d4bc64d1688e82",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604987672,
+          "stop" : 1559604987976,
+          "duration" : 304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+        "uid" : "cec4175ef2e7d91d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988005,
+          "stop" : 1559604988017,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C631] Purchases: Buy a PRO subscription and check the onboarding",
+        "uid" : "1020e8610b8a123a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988015,
+          "stop" : 1559604988048,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PRO Subscription: Check the Google payment popup",
+        "uid" : "bde1728b29ac9138",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988079,
+          "stop" : 1559604988100,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PRO Subscription: Check the Google payment popup",
+        "uid" : "9e16ac57bda69431",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988097,
+          "stop" : 1559604988125,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PRO Subscription: Check if user is eligible to buy a PRO Subscription",
+        "uid" : "bca0d8de2d43a2cf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988148,
+          "stop" : 1559604988162,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PRO Subscription: Check if user is eligible to buy a PRO Subscription",
+        "uid" : "f1745c27eed415d8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988159,
+          "stop" : 1559604988208,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C362] Profile: Reactivate an Expired item",
+        "uid" : "1fd8cde7aa05ccf6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988270,
+          "stop" : 1559604988287,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C362] Profile: Reactivate an Expired item",
+        "uid" : "6c9b77c6d6aac0fc",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988283,
+          "stop" : 1559604988322,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17700] Onboarding: Allow the location permissions after login an user",
+        "uid" : "651e9cbb02cf827b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988379,
+          "stop" : 1559604988682,
+          "duration" : 303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17700] Onboarding: Allow the location permissions after login an user",
+        "uid" : "65af0e09304f4567",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988394,
+          "stop" : 1559604988704,
+          "duration" : 310
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: See the location permission after skip login",
+        "uid" : "74a353c3563959c9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988719,
+          "stop" : 1559604989017,
+          "duration" : 298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: See the location permission after skip login",
+        "uid" : "4340516f07f86745",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604988728,
+          "stop" : 1559604989037,
+          "duration" : 309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: Skip the location permission after login an user",
+        "uid" : "c5adbe3ce9cf845c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989057,
+          "stop" : 1559604989352,
+          "duration" : 295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: Skip the location permission after login an user",
+        "uid" : "d8b949eba58fe2d1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989069,
+          "stop" : 1559604989381,
+          "duration" : 312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: Deny the location permission after login an user",
+        "uid" : "3da5b2e927d3f3bb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989416,
+          "stop" : 1559604989724,
+          "duration" : 308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Onboarding: Deny the location permission after login an user",
+        "uid" : "77ba0d2fb83db792",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989427,
+          "stop" : 1559604989772,
+          "duration" : 345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17031] Login: Ask for a new Wallapop user password",
+        "uid" : "ceb5aae009bca066",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989828,
+          "stop" : 1559604990139,
+          "duration" : 311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17031] Login: Ask for a new Wallapop user password(loginForgotPassword_01_requestNewPassword_isEmailReceived",
+        "uid" : "fdd28b60adcab845",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604989846,
+          "stop" : 1559604990172,
+          "duration" : 326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C6441] Purchases: Bump list purchase screen redirection",
+        "uid" : "b65972d2866a5d6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604990208,
+          "stop" : 1559604990532,
+          "duration" : 324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C6441] Purchases: Bump list purchase screen redirection",
+        "uid" : "edde944504d8bcfc",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604990225,
+          "stop" : 1559604990591,
+          "duration" : 366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C15466] Purchases: Bump list empty list design",
+        "uid" : "9cf7003c5d2165ef",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604990653,
+          "stop" : 1559604990971,
+          "duration" : 318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C15466] Purchases: Bump list empty list design",
+        "uid" : "e3cc353138501614",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604990682,
+          "stop" : 1559604991005,
+          "duration" : 323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C15467] Purchases: Bump list upload from empty list",
+        "uid" : "cfe13245d7654bd6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991066,
+          "stop" : 1559604991374,
+          "duration" : 308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C15467] Purchases: Bump list upload from empty list(bumpListUploadFromEmptyList",
+        "uid" : "b0d5db928991edf7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991079,
+          "stop" : 1559604991426,
+          "duration" : 347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C84] Inbox data - Active conversations: Empty space",
+        "uid" : "d2cbe0bc2f494e0d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991473,
+          "stop" : 1559604991515,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C84] Inbox data - Active conversations: Empty space",
+        "uid" : "9231049a5b5f0471",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991512,
+          "stop" : 1559604991592,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C696] Profile edition: Change the user main location",
+        "uid" : "daa6df56652bab2b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991654,
+          "stop" : 1559604991681,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C696] Profile edition: Change the user main location(editProfile_05_EditLocation_IsLocationAdded",
+        "uid" : "9bf6dede94ede8b0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991672,
+          "stop" : 1559604991746,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C692] Profile edition: Change user avatar",
+        "uid" : "297934aceb85ccf2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991811,
+          "stop" : 1559604991828,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C692] Profile edition: Change user avatar",
+        "uid" : "8484ca09997e75d5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991885,
+          "stop" : 1559604991899,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C692] Profile edition: Change user avatar(editProfile_01_EditAvatar_IsAvatarSet",
+        "uid" : "3b735c1f352a00fb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991896,
+          "stop" : 1559604991924,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C693] Profile edition: Change eMail",
+        "uid" : "f03c0c130d6cff4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991955,
+          "stop" : 1559604991970,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C693] Profile edition: Change eMail(editProfile_07_editEmail_isSnackBarDisplayed",
+        "uid" : "9370094060167661",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604991966,
+          "stop" : 1559604991996,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C698] Profile edition: Change birthdate",
+        "uid" : "c8959db5910ed57a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992034,
+          "stop" : 1559604992050,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C698] Profile edition: Change birthdate",
+        "uid" : "ee4fa8a8f325f583",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992092,
+          "stop" : 1559604992108,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C698] Profile edition: Change birthdate(editProfile_04_EditBirthDay_IsBirthDaySet",
+        "uid" : "12c284806088178e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992105,
+          "stop" : 1559604992147,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12598] Profile edition: Change gender",
+        "uid" : "ab1f7b8e657dd6cd",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992174,
+          "stop" : 1559604992188,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12598] Profile edition: Change gender",
+        "uid" : "4438891198f75cd6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992260,
+          "stop" : 1559604992282,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C12598] Profile edition: Change gender(editProfile_06_EditGender_IsGenderAdded",
+        "uid" : "e85f49c6d84d969c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604992280,
+          "stop" : 1559604992298,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C695] Profile edition: Change first and last name",
+        "uid" : "c8e2af50c927c4ad",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993248,
+          "stop" : 1559604993274,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C695] Profile edition: Change first and last name(editProfile_03_EditSurname_IsSurnameSet",
+        "uid" : "3e36a0b09a55b071",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993270,
+          "stop" : 1559604993356,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C695] Profile edition: Change first and last name",
+        "uid" : "7325e91ffd4021e2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993444,
+          "stop" : 1559604993460,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C695] Profile edition: Change first and last name(editProfile_02_EditName_IsNameSet",
+        "uid" : "351d6995a1a9b4ab",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993456,
+          "stop" : 1559604993488,
+          "duration" : 32
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C713] Profile: Share my user profile by Gmail",
+        "uid" : "77c347dfac5123ce",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993522,
+          "stop" : 1559604993813,
+          "duration" : 291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C713] Profile: Share my user profile by Gmail",
+        "uid" : "48dc0b33ddc838db",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993534,
+          "stop" : 1559604993834,
+          "duration" : 300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C673] Search Real Estate: Search with different filters getting results",
+        "uid" : "5ea09c8171b1d308",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993871,
+          "stop" : 1559604994153,
+          "duration" : 282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C673] Search Real Estate: Search with different filters getting results(searchRealEstate_01_SearchByAllFilters_AreItemsDisplayed",
+        "uid" : "76b672a4f498b43",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604993879,
+          "stop" : 1559604994173,
+          "duration" : 294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Real Estate: Reset filter set in search screen",
+        "uid" : "5b0d9ba5fc0ac920",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994194,
+          "stop" : 1559604994475,
+          "duration" : 281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Search Real Estate: Reset filter set in search screen(searchRealEstate_02_SetFiltersAndReset_IsFilterResetLessCategory",
+        "uid" : "65b8dee5cf0d6823",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994203,
+          "stop" : 1559604994498,
+          "duration" : 295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item RESERVED",
+        "uid" : "4d9b1927f4c39915",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994541,
+          "stop" : 1559604994557,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item RESERVED(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+        "uid" : "8da9d322df796453",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994553,
+          "stop" : 1559604994587,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item SOLD",
+        "uid" : "39e94309f143a73d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994606,
+          "stop" : 1559604994619,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item SOLD(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+        "uid" : "7128a17b2f066df0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994617,
+          "stop" : 1559604994638,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item UNAVAILABLE",
+        "uid" : "2acd63f26c565a9c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994655,
+          "stop" : 1559604994665,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item UNAVAILABLE(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+        "uid" : "265f143e4796377f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994663,
+          "stop" : 1559604994682,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item AVAILABLE",
+        "uid" : "c29a3d593f0dfbe4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994694,
+          "stop" : 1559604994706,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the item AVAILABLE(ActivesInbox_Actions_04_GoToConversationByItemStatus_IsConversationDisplayed",
+        "uid" : "8674028e7c6188ae",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994703,
+          "stop" : 1559604994727,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C71B] Inbox actions - Active conversations: Delete selected conversations",
+        "uid" : "12b3c3a554f79697",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994767,
+          "stop" : 1559604994783,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C71B] Inbox actions - Active conversations: Delete selected conversations(ActivesInbox_Actions_09_ArchiveSelectedConversations_IsConversationArchived",
+        "uid" : "ddfbb6c445308ed1",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994780,
+          "stop" : 1559604994807,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by OTHERUSER_NAME with value seller",
+        "uid" : "108f50e1eba4757b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994843,
+          "stop" : 1559604994884,
+          "duration" : 41
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by OTHERUSER_NAME with value seller(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+        "uid" : "b9c02887e0be84ed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994882,
+          "stop" : 1559604994946,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by ITEM_TITLE with value iPhone",
+        "uid" : "6f29fd1255b0a7e0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994965,
+          "stop" : 1559604994979,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by ITEM_TITLE with value iPhone(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+        "uid" : "3440241bb989731e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604994976,
+          "stop" : 1559604995013,
+          "duration" : 37
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_DATE with value 03 abr.",
+        "uid" : "7ee9c7eea6cabcf0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995037,
+          "stop" : 1559604995053,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_DATE with value 03 abr.(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+        "uid" : "bde07467798d2ceb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995050,
+          "stop" : 1559604995088,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_TEXT with value Hello",
+        "uid" : "83cbfead2039e51a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995103,
+          "stop" : 1559604995116,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select a conversation by LASTMESSAGE_TEXT with value Hello(ActivesInbox_Actions_06_SelectConversationByValue_IsConversationSelected",
+        "uid" : "d82bfad5cddba704",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995113,
+          "stop" : 1559604995136,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select some conversations",
+        "uid" : "36f4f8fc676dedb3",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995164,
+          "stop" : 1559604995176,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Select some conversations(ActivesInbox_Actions_07_SelectSomeConversations_IsConversationSelected",
+        "uid" : "dbe469b0c211a7e2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995172,
+          "stop" : 1559604995199,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C71A] Inbox actions - Active conversations: Delete a conversation swipping",
+        "uid" : "a7f8cedfa488308b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995225,
+          "stop" : 1559604995235,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C71A] Inbox actions - Active conversations: Delete a conversation swipping(ActivesInbox_Actions_08_ArchiveConversationSwipping_IsConversationArchived",
+        "uid" : "5cf04954bf83a84b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995232,
+          "stop" : 1559604995260,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 0 unread messages",
+        "uid" : "7ecc748903f31fa9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995286,
+          "stop" : 1559604995297,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 0 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+        "uid" : "2018e3876c4a062d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995294,
+          "stop" : 1559604995312,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 1 unread messages",
+        "uid" : "eb6ca52d56a195fe",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995324,
+          "stop" : 1559604995336,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 1 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+        "uid" : "87213f229e82049e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995332,
+          "stop" : 1559604995353,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 100 unread messages",
+        "uid" : "ff48e654590dea6b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995369,
+          "stop" : 1559604995390,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with 100 unread messages(ActivesInbox_Actions_02_GoToConversationByUnreadMessages_ConversationDisplayed",
+        "uid" : "1713d1f61266c9ea",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995387,
+          "stop" : 1559604995409,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to conversation 3",
+        "uid" : "3b4a9fdfc05e549f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995435,
+          "stop" : 1559604995448,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to conversation 3(ActivesInbox_Actions_01_GoToConversationNumber_IsConversationDisplayed",
+        "uid" : "106a7b88976d9b04",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995445,
+          "stop" : 1559604995472,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user BLOCKED",
+        "uid" : "7f56398e3c1a9b48",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995491,
+          "stop" : 1559604995503,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user BLOCKED(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+        "uid" : "91136b741bbf6f22",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995501,
+          "stop" : 1559604995522,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user AVAILABLE",
+        "uid" : "96d1136edd60426d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995534,
+          "stop" : 1559604995545,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user AVAILABLE(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+        "uid" : "58e122e7e092022d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995542,
+          "stop" : 1559604995567,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user UNAVAILABLE",
+        "uid" : "7512b0ed1543e71e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995581,
+          "stop" : 1559604995592,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with the user UNAVAILABLE(ActivesInbox_Actions_05_GoToConversationByUserStatus_IsConversationDisplayed",
+        "uid" : "63d60bc5b5c54868",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995589,
+          "stop" : 1559604995609,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT_TO_ME",
+        "uid" : "b8ccd7ff959ec885",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995633,
+          "stop" : 1559604995642,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT_TO_ME(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+        "uid" : "6ae7679f693f8cca",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995640,
+          "stop" : 1559604995661,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT",
+        "uid" : "630940462a4532c7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995678,
+          "stop" : 1559604995689,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message SENT(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+        "uid" : "d6f6fe34e39b0bd9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995687,
+          "stop" : 1559604995712,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message RECEIVED",
+        "uid" : "191a5668d12bbe2a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995728,
+          "stop" : 1559604995739,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message RECEIVED(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+        "uid" : "2846f9301e7bc571",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995736,
+          "stop" : 1559604995755,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message READ",
+        "uid" : "1e0ec7cbf3639e55",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995767,
+          "stop" : 1559604995779,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inbox actions - Active conversations: Go to a conversation with last message READ(ActivesInbox_Actions_03_GoToConversationByLastMessageStatus_IsConversationDisplayed",
+        "uid" : "b52a8a3ed25b3797",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995777,
+          "stop" : 1559604995795,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C735] Register: Sign up with a Wallapop account with wrong password",
+        "uid" : "71eea404f3881125",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995831,
+          "stop" : 1559604995844,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C735] Register: Sign up with a Wallapop account with wrong password(registerWallapopAccount_04_setWrongPassword_isUserNotRegistered",
+        "uid" : "c85c06ce7f6dae78",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995841,
+          "stop" : 1559604995861,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C734] Register: Sign up with a new Wallapop account",
+        "uid" : "76f45d4426cd7c35",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995883,
+          "stop" : 1559604995892,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C734] Register: Sign up with a new Wallapop account(registerWallapopAccount_05_setValidCredentials_isUserRegistered",
+        "uid" : "769c09d890efd137",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995890,
+          "stop" : 1559604995910,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17026] Register: Sign up with a Wallapop account with wrong or duplicated eMail",
+        "uid" : "1ef85ff13fff4ccb",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995931,
+          "stop" : 1559604995944,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17026] Register: Sign up with a Wallapop account with wrong or duplicated eMail(registerWallapopAccount_03_setWrongEmail_isUserNotRegistered",
+        "uid" : "42c6fb1b830cc45e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995941,
+          "stop" : 1559604995970,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17028] Register: See Privacy Policy from Wallapop register screen",
+        "uid" : "c28cebf26e21d776",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604995989,
+          "stop" : 1559604996003,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17028] Register: See Privacy Policy from Wallapop register screen",
+        "uid" : "bb65b4ee3808b8c4",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996000,
+          "stop" : 1559604996027,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: TV, Audio & Cameras|Computers & Electronic|Cell Phones & Accessories|Movies, Books & Music)",
+        "uid" : "312bb288bc266318",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996059,
+          "stop" : 1559604996074,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: TV, Audio & Cameras|Computers & Electronic|Cell Phones & Accessories|Movies, Books & Music)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+        "uid" : "9d785b64b2366cec",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996070,
+          "stop" : 1559604996100,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Cars|Motor & Accesories)",
+        "uid" : "9b6da8c5383c1e3f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996117,
+          "stop" : 1559604996131,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Cars|Motor & Accesories)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+        "uid" : "5d4052f1f1415b7d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996127,
+          "stop" : 1559604996149,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Real Estate|Home & Garden|Appliances)",
+        "uid" : "7006b03be5387178",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996161,
+          "stop" : 1559604996171,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851C] Onboarding: Select favourite categories (Categories: Real Estate|Home & Garden|Appliances)(registerWallapopAccount_08_selectFavCategories_isWallDisplayed",
+        "uid" : "db0ce91ea6ebaded",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996169,
+          "stop" : 1559604996190,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Bikes)",
+        "uid" : "e873b04b765e02b2",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996213,
+          "stop" : 1559604996223,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Bikes)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+        "uid" : "48dc635f76e35892",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996221,
+          "stop" : 1559604996243,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Cars)",
+        "uid" : "e02147ab9943701a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996260,
+          "stop" : 1559604996270,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Cars)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+        "uid" : "1f71ffc3c862bcac",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996267,
+          "stop" : 1559604996291,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Real Estate)",
+        "uid" : "81074bc4453a46f9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996310,
+          "stop" : 1559604996319,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C26851B] Onboarding: Select one favourite category but not save selection (Category: Real Estate)(registerWallapopAccount_07_selectOneFavCategory_isSaveButtonDisplayed",
+        "uid" : "1a87da3018b7ad92",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996317,
+          "stop" : 1559604996335,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17027] Register: See Terms and Conditions from Wallapop register screen",
+        "uid" : "9c2e37d890ae522",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996346,
+          "stop" : 1559604996357,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C17027] Register: See Terms and Conditions from Wallapop register screen",
+        "uid" : "256b1b6c9c0e9da9",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996354,
+          "stop" : 1559604996378,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C711] Profile items: Favorite and Unfavorite Item",
+        "uid" : "23c059c27e376145",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996405,
+          "stop" : 1559604996415,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C711] Profile items: Favorite and Unfavorite Item",
+        "uid" : "b104f3dbbcbc6f9a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996412,
+          "stop" : 1559604996433,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C447] Item actions: Open a conversation depending if user is logged or not",
+        "uid" : "3f764199cdcf1fa",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996450,
+          "stop" : 1559604996464,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C447] Item actions: Open a conversation depending if user is logged or not",
+        "uid" : "da033376f66c5ca8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996461,
+          "stop" : 1559604996491,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C652] Item actions: Share an Item via eMail",
+        "uid" : "22c0c489b14c1ee8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996545,
+          "stop" : 1559604996555,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C652] Item actions: Share an Item via eMail",
+        "uid" : "761c65f9bf2e8023",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996553,
+          "stop" : 1559604996578,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C646] Item actions: Favorite an item at the item detail",
+        "uid" : "14cc45f54232ba7f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996604,
+          "stop" : 1559604996623,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C648] Item actions: Report this listing in item Page",
+        "uid" : "b19c9ac76f58e05e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996644,
+          "stop" : 1559604996658,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C648] Item actions: Report this listing in item Page",
+        "uid" : "144fd1db13d58b31",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996703,
+          "stop" : 1559604996717,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C648] Item actions: Report this listing in item Page",
+        "uid" : "ce11b9c050cbeab5",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996746,
+          "stop" : 1559604996758,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C648] Item actions: Report this listing in item Page(otherItem_04_reportItemByReasonNumber_isItemReported",
+        "uid" : "c2a0b776dea67705",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996755,
+          "stop" : 1559604996777,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10884] Conversation data: Item detail access from header",
+        "uid" : "bd9851bae5626c56",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996812,
+          "stop" : 1559604996823,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10884] Conversation data: Item detail access from header",
+        "uid" : "c83b3b0d0549f925",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996821,
+          "stop" : 1559604996838,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10886] Conversation data: User profile access from user card",
+        "uid" : "53bb61c103805aa8",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996854,
+          "stop" : 1559604996870,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10886] Conversation data: User profile access from user card",
+        "uid" : "43c1bb7046cb67e7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996867,
+          "stop" : 1559604996892,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C49] Conversation actions: Blocking an user behaviour",
+        "uid" : "7150337798d1a94c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996911,
+          "stop" : 1559604996920,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C49] Conversation actions: Blocking an user behaviour",
+        "uid" : "33639359a9510b8c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996918,
+          "stop" : 1559604996938,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C70] Conversation actions: Report an user",
+        "uid" : "5ab74eaa1f815391",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996956,
+          "stop" : 1559604996972,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C70] Conversation actions: Report an user",
+        "uid" : "71417f4f985ee905",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996967,
+          "stop" : 1559604996991,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10885] Conversation data: User profile access from header",
+        "uid" : "46d4e44291450c3e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997005,
+          "stop" : 1559604997014,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C10885] Conversation data: User profile access from header",
+        "uid" : "abf40644be254844",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997012,
+          "stop" : 1559604997033,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C72] Conversation actions: Report an item",
+        "uid" : "3905e3fc290a3522",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997044,
+          "stop" : 1559604997055,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C72] Conversation actions: Report an item",
+        "uid" : "7b73750c31c1a8cf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997052,
+          "stop" : 1559604997083,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+        "uid" : "8dfe7f7b3026936b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997121,
+          "stop" : 1559604997458,
+          "duration" : 337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "5d5da017a5875e4d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997470,
+          "stop" : 1559604997766,
+          "duration" : 296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C740] Help: Access and sections",
+        "uid" : "ac1c29e8fafd8ab0",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997478,
+          "stop" : 1559604997794,
+          "duration" : 316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C739] Help: Legal agreements",
+        "uid" : "b3141768d07ef726",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997822,
+          "stop" : 1559604998216,
+          "duration" : 394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C739] Help: Legal agreements",
+        "uid" : "3850bb42dc65b6a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604997845,
+          "stop" : 1559604998240,
+          "duration" : 395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C754] Contact us: Open a Helpshift ticket from the FAQs",
+        "uid" : "7e1004ba1d7ae3f7",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559663747135,
+          "stop" : 1559663767913,
+          "duration" : 20778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C646] Item actions: Favorite an item at the item detail",
+        "uid" : "521824b3813fb249",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559663767992,
+          "stop" : 1559663781676,
+          "duration" : 13684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[C703] Profile items: Sell an item to a buyer and do the review",
+        "uid" : "1c73ddc0851eb154",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559663781728,
+          "stop" : 1559663805571,
+          "duration" : 23843
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "Configuration error: You must configure at least one set of arguments for this @ParameterizedTest",
+      "children" : [ {
+        "name" : "otherItem_06_clickChatButtonAtItem_userLogged_isConversationShown",
+        "uid" : "eba74e9b0258b726",
+        "parentUid" : "5ba56676d04e8d485f2b81785a3aa1c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559604996517,
+          "stop" : 1559604996528,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ba56676d04e8d485f2b81785a3aa1c5"
+    }, {
+      "name" : "sun.nio.ch.FileChannelImpl.position0(Ljava/io/FileDescriptor;J)J",
+      "children" : [ {
+        "name" : "[C69] Conversation messages: Send chat messages",
+        "uid" : "d5bb0c215db47956",
+        "parentUid" : "27aa7b42c458aa16da317b77f47adf9b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1559663694954,
+          "stop" : 1559663746862,
+          "duration" : 51908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27aa7b42c458aa16da317b77f47adf9b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

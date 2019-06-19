@@ -1,0 +1,37 @@
+{
+  "total" : 408,
+  "items" : [ {
+    "uid" : "647fc9d8d311d062b0f92b9a26601532",
+    "name" : "Item",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "bd05d431eda755be83ae09f3c2ec9564",
+    "name" : "Chat",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1b224fa9384bf96eb947a918d61b926c",
+    "name" : "Help",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

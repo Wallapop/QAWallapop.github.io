@@ -1,0 +1,114 @@
+{
+  "total" : 101,
+  "items" : [ {
+    "uid" : "cceca915eaed0f62af98da15c59f188b",
+    "name" : "com.wallapop.functionality.chat.inbox.behaviour.ActivesInboxActionsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 22,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 22
+    }
+  }, {
+    "uid" : "2264589bd39e7cb5b1508b8c17be4aa4",
+    "name" : "com.wallapop.functionality.chat.conversation.behaviour.ConversationMessagingTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 16,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "28cafb537f5ab53406a9822645440109",
+    "name" : "ConversationMessagingTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 16,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 16
+    }
+  }, {
+    "uid" : "5a3dad234be9edeb146d42079ab40379",
+    "name" : "com.wallapop.functionality.delivery.behaviour.DeliveryPayItemTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 12,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "e9e19f500b7bb712a052ef4e40a070c4",
+    "name" : "String)",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 12,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 12
+    }
+  }, {
+    "uid" : "98f2052a095076961a87ec7363fe07e9",
+    "name" : "User)",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 11,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "fd82dd245f7fa9a3adbb398fdfb9303b",
+    "name" : "com.wallapop.functionality.loginRegister.behaviour.RegisterWallapopUserTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 11,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "21b3e5361e21e5db72f498703e4b99c5",
+    "name" : "int)",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "5651e69eb893e9d15572e29dfd1707f2",
+    "name" : "com.wallapop.functionality.profile.editProfile.behaviour.EditProfileTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "8ce01e882fb73ea74f617059ac8fc092",
+    "name" : "com.wallapop.functionality.search.searchConsumerGoods.behaviour.SearchConsumerGoodsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    }
+  } ]
+}
